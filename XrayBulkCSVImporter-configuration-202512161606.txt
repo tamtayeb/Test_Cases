@@ -1,0 +1,23 @@
+{
+  "projectKey" : {
+    "project" : "BQ"
+  },
+  "field" : {
+    "Action" : "Action",
+    "Test Case Cycle" : "customfield_17246",
+    "Test Case Sprint" : "customfield_17247",
+    "Description" : "description",
+    "Links" : "link-10400",
+    "Summary" : "summary",
+    "Data" : "Data",
+    "Labels" : "labels",
+    "Exepected Result" : "Expected Result",
+    "TestCase ID" : "Test Case Identifier"
+  },
+  "link" : { },
+  "projectSelection" : {
+    "project" : "true"
+  },
+  "projectName" : { },
+  "value" : { }
+}
