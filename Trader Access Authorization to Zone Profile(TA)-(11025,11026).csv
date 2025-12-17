@@ -1,0 +1,154 @@
+﻿Project,Key,T,Status,P,Labels,Test Case Cycle,Test Case Sprint,Test Type,TestRunStatus,Links,TestCase ID,Summary,Description,Test Step ID,Action,Data,Exepected Result
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-252,TS_TA_252_Verify user can login to BZMS portal  ,"Verify user can login to BZMS portal
+
+Pre-requisite: Foreign Trader has valid credentials",TS-01,Login to BZMS portal,Valid username/password,User successfully logs into BZMS portal
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-253,TS_TA_253_Verify user can navigate to Authorization Request form  ,"Verify user can navigate to Authorization Request form
+
+Pre-requisite: User logged into BZMS portal",TS-01,Navigate to Authorization Request page,,Authorization Request form displayed
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-254,TS_TA_254_Verify user can select active zone profile and components  ,"Verify user can select active zone profile and components
+
+Pre-requisite: Active Zone Profiles available",TS-01,Select zone profile and components,"Zone Profile A, Component X",Selected zones/components accepted
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-255,TS_TA_255_Verify error when user submits request without selecting any zone/component  ,"Verify error when user submits request without selecting any zone/component
+
+Pre-requisite: Authorization Request form open",TS-01,Submit request without selections,No zones/components selected,"Error displayed: ""Please select at least one zone or component"""
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-256,TS_TA_256_Verify Authorization Request is routed to BZ Operator after submission  ,"Verify Authorization Request is routed to BZ Operator after submission
+
+Pre-requisite: Request submitted",TS-01,Submit Authorization Request,Valid request details,"Request status set to ""Submitted"" and routed to BZ Operator"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-257,TS_TA_257_Verify BZ Operator can approve Authorization Request  ,"Verify BZ Operator can approve Authorization Request
+
+Pre-requisite: Request received by BZ Operator",TS-01,Log in as BZ Operator and approve request,Request ID XYZ,"Request status updated to ""Approved by BZ Operator"" and routed to Registration Officer"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-258,TS_TA_258_Verify BZ Operator can reject Authorization Request  ,"Verify BZ Operator can reject Authorization Request
+
+Pre-requisite: Request received by BZ Operator",TS-01,Log in as BZ Operator and reject request,"Request ID XYZ, Reason for rejection","Request status updated to ""Rejected"" with reason; notification sent to Foreign Trader"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-259,TS_TA_259_Verify BZ Operator can request more information  ,"Verify BZ Operator can request more information
+
+Pre-requisite: Request received by BZ Operator",TS-01,"Mark request as ""Pending - More Information Required""",Missing information details,Request status updated and notification sent to Foreign Trader with required details
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-260,TS_TA_260_Verify Foreign Trader can resubmit Authorization Request after info request  ,"Verify Foreign Trader can resubmit Authorization Request after info request
+
+Pre-requisite: Request status ""Pending - More Information Required""",TS-01,Edit and resubmit Authorization Request,Updated request details,Request resubmitted and routed again to BZ Operator
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-261,TS_TA_261_Verify Foreign Trader receives submission acknowledgment notification  ,"Verify Foreign Trader receives submission acknowledgment notification
+
+Pre-requisite: Authorization Request submitted",TS-01,Submit Authorization Request,Valid request ID,Foreign Trader receives email/SMS/in-app notification with Request-ID
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-262,TS_TA_262_Verify BZ Operator receives new Authorization Request notification  ,"Verify BZ Operator receives new Authorization Request notification
+
+Pre-requisite: Authorization Request submitted",TS-01,Submit Authorization Request,,BZ Operator receives notification of new request
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-263,TS_TA_263_Verify Foreign Trader receives notification of BZ Operator approval  ,"Verify Foreign Trader receives notification of BZ Operator approval
+
+Pre-requisite: Request approved by BZ Operator",TS-01,Approve request as BZ Operator,,Foreign Trader notified of approval and request under Registration Officer review
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-264,TS_TA_264_Verify only active Zone Profiles/components are selectable  ,"Verify only active Zone Profiles/components are selectable
+
+Pre-requisite: System has active/inactive zones",TS-01,Attempt to select inactive Zone Profile,Inactive Zone Profile,Inactive zones/components cannot be selected
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-265,TS_TA_265_Verify Trader authorization only allows permitted actions on approved zones  ,"Verify Trader authorization only allows permitted actions on approved zones
+
+Pre-requisite: Authorization granted",TS-01,Perform entry/exit ticket actions on approved zone,Approved Zone Profile and components,Actions succeed only on authorized zones/components
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-266,TS_TA_266_Verify system suspends authorization if zone/component becomes frozen  ,"Verify system suspends authorization if zone/component becomes frozen
+
+Pre-requisite: Zone becomes frozen",TS-01,Perform action after zone freeze,Frozen Zone Profile,Authorization suspended after current transactions complete; actions blocked
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-267,TS_TA_267_Verify all authorization requests and decisions are logged  ,"Verify all authorization requests and decisions are logged
+
+Pre-requisite: Requests submitted and processed",TS-01,"Submit, approve, reject authorization requests",,"Audit trail records user ID, timestamps, status, and comments"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-268,TS_TA_268_Verify error when submitting request with special characters in description  ,"Verify error when submitting request with special characters in description
+
+Pre-requisite: Authorization Request form open",TS-01,Enter special characters in description and submit,Description: @@@###$$$,"Error displayed: ""Invalid characters in description"""
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-269,TS_TA_269_Verify PEGA workflow routes request correctly from BZ Operator to Registration Officer  ,"Verify PEGA workflow routes request correctly from BZ Operator to Registration Officer
+
+Pre-requisite: Request approved by BZ Operator",TS-01,Approve request and verify routing,Request ID XYZ,Request routed to Registration Officer in PEGA workflow
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-270,TS_TA_270_Verify audit trail entries are correctly logged in PEGA backend  ,"Verify audit trail entries are correctly logged in PEGA backend
+
+Pre-requisite: Authorization Request submitted and processed",TS-01,Submit and process request; check audit logs,Request ID XYZ,"Audit trail contains correct timestamps, user IDs, and status updates"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-271,"TS_TA_271_Verify BZ Operator receives in‑app, email and SMS notifications for a new Authorization Amendment request  ","Verify BZ Operator receives in‑app, email and SMS notifications for a new Authorization Amendment request
+
+Pre-requisite: New Authorization Amendment request created",TS-01,Trigger amendment request and observe notifications,,"BZ Operator receives notification via all configured channels (in‑app, email, SMS)"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-272,TS_TA_272_Verify system prevents creation of a new account when the user already has a valid license and an active account  ,"Verify system prevents creation of a new account when the user already has a valid license and an active account
+
+Pre-requisite: User with existing valid license logged in",TS-01,Attempt to create a new account for same user,Duplicate user details,System blocks creation and shows error “Account already exists”
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-273,TS_TA_273_Verify delete option is available for a tenant in the amendment user story  ,"Verify delete option is available for a tenant in the amendment user story
+
+Pre-requisite: Existing tenant present in system",TS-01,Open tenant amendment screen and select “Delete”,,Delete option is displayed and can be executed (soft delete)
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-274,TS_TA_274_Verify logical deletion (freeze) of a tenant retains audit‑trail information  ,"Verify logical deletion (freeze) of a tenant retains audit‑trail information
+
+Pre-requisite: Tenant to be removed",TS-01,Perform logical deletion (freeze) of tenant,,"Tenant marked as deleted but audit trail remains intact, fulfilling audit‑trail requirement"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-275,TS_TA_275_Verify system handles attempt to delete a non‑existent tenant gracefully  ,"Verify system handles attempt to delete a non‑existent tenant gracefully
+
+Pre-requisite: No tenant with given ID exists",TS-01,Attempt deletion of non‑existent tenant,Invalid tenant ID,System returns “Tenant not found” error; no deletion occurs
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11025,TC-276,TS_TA_276_Verify PEGA workflow routing uses CIAM for authentication and integrates with customs/tax systems as required,"Verify PEGA workflow routing uses CIAM for authentication and integrates with customs/tax systems as required
+
+Pre-requisite: User authenticated via CIAM (2‑factor)",TS-01,Initiate routing in PEGA and check external service calls,,Routing succeeds with CIAM auth; calls to customs/tax integrations are logged
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-277,TS_TA_277_Verify user can login to BZMS portal  ,"Verify user can login to BZMS portal
+
+Pre-requisite: Registered Foreign Trader has valid credentials",TS-01,Login to BZMS portal,Valid username/password,User successfully logs into BZMS portal
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-278,TS_TA_278_Verify user navigates to Authorization Amendment Request page  ,"Verify user navigates to Authorization Amendment Request page
+
+Pre-requisite: User logged in",TS-01,Navigate to Authorization Amendment request form,,Authorization Amendment Request form displayed
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-279,TS_TA_279_Verify user can view current authorized Zone Profiles and components  ,"Verify user can view current authorized Zone Profiles and components
+
+Pre-requisite: User has authorized zones/components",TS-01,Access current authorization details,,List of current authorizations displayed correctly
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-280,TS_TA_280_Verify user can select zone profiles/components to add  ,"Verify user can select zone profiles/components to add
+
+Pre-requisite: Authorization Amendment form open",TS-01,Select Zone Profiles/components for addition,Active zones/components,Selected zones/components accepted
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-281,TS_TA_281_Verify user can select zone profiles/components to remove  ,"Verify user can select zone profiles/components to remove
+
+Pre-requisite: Authorization Amendment form open",TS-01,Select Zone Profiles/components for removal,Authorized zones/components,Selected zones/components accepted
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-282,TS_TA_282_Verify error shown if no zones/components selected during amendment submission  ,"Verify error shown if no zones/components selected during amendment submission
+
+Pre-requisite: Authorization Amendment form open",TS-01,Submit amendment without any selections,No zones/components selected,"Error message: ""Please select at least one zone or component to add or remove"""
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-283,TS_TA_283_Verify successful submission of Authorization Amendment request  ,"Verify successful submission of Authorization Amendment request
+
+Pre-requisite: Valid form filled",TS-01,Submit Authorization Amendment request,Valid amendment details,"Request status set to ""Submitted"" and routed to BZ Operator"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-284,TS_TA_284_Verify BZ Operator can approve Authorization Amendment request  ,"Verify BZ Operator can approve Authorization Amendment request
+
+Pre-requisite: Amendment request pending for BZ Operator",TS-01,Log in as BZ Operator and approve request,Request ID,"Request status updated to ""Approved by BZ Operator"" and routed to BZ Registration Officer"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-285,TS_TA_285_Verify BZ Operator can reject Authorization Amendment request  ,"Verify BZ Operator can reject Authorization Amendment request
+
+Pre-requisite: Amendment request pending for BZ Operator",TS-01,Log in as BZ Operator and reject request,"Request ID, rejection reason","Request status updated to ""Rejected"" with rejection reason; notification sent to Foreign Trader"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-286,TS_TA_286_Verify BZ Operator can mark Authorization Amendment request as “More Info”  ,"Verify BZ Operator can mark Authorization Amendment request as “More Info”
+
+Pre-requisite: Amendment request pending for BZ Operator",TS-01,"Mark request as ""Pending - More Information Required""",Missing info details,Request status updated; notification sent to Foreign Trader detailing needed information
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-287,TS_TA_287_Verify Foreign Trader can resubmit Authorization Amendment after info request  ,"Verify Foreign Trader can resubmit Authorization Amendment after info request
+
+Pre-requisite: Request status ""Pending – More Information Required""",TS-01,Edit and resubmit amendment request,Updated amendment details,Request resubmitted and routed to BZ Operator
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-288,TS_TA_288_Verify Foreign Trader receives acknowledgment notification on submission  ,"Verify Foreign Trader receives acknowledgment notification on submission
+
+Pre-requisite: Amendment request submitted",TS-01,Submit Authorization Amendment request,Valid Request ID,Foreign Trader receives notification with Request ID
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-289,TS_TA_289_Verify BZ Operator receives notification of new Authorization Amendment request  ,"Verify BZ Operator receives notification of new Authorization Amendment request
+
+Pre-requisite: Amendment request submitted",TS-01,Submit Authorization Amendment request,,BZ Operator receives notification of new amendment request
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-290,TS_TA_290_Verify Foreign Trader receives notification when BZ Operator approves request  ,"Verify Foreign Trader receives notification when BZ Operator approves request
+
+Pre-requisite: Amendment approved by BZ Operator",TS-01,Approve Authorization Amendment request as BZ Operator,,Foreign Trader notified that request is under review by BZ Registration Officer
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-291,TS_TA_291_Verify inactive Zone Profiles/components cannot be selected for addition  ,"Verify inactive Zone Profiles/components cannot be selected for addition
+
+Pre-requisite: System has inactive zones/components",TS-01,Attempt to select inactive zone/component,Inactive Zone Profile,Inactive zones/components are disabled or not selectable
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-292,TS_TA_292_Verify approved amendment updates authorization for permitted actions  ,"Verify approved amendment updates authorization for permitted actions
+
+Pre-requisite: Amendment approved",TS-01,Perform authorized actions on updated zones/components,Updated Zone Profile,User can perform permitted actions only on updated authorized zones/components
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-293,TS_TA_293_Verify access revoked for frozen zones/components after active transactions end  ,"Verify access revoked for frozen zones/components after active transactions end
+
+Pre-requisite: Zone/component frozen",TS-01,User tries to access frozen zone/component,Frozen Zone Profile,User access revoked after active operations are closed
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-294,"TS_TA_294_Verify all amendments are logged with timestamp, submitter, and status  ","Verify all amendments are logged with timestamp, submitter, and status
+
+Pre-requisite: Amendments submitted and processed",TS-01,"Submit, approve, reject amendment requests",,"Audit logs contain timestamps, submitter info, and approval status"
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-295,TS_TA_295_Verify Shipping Agent can submit amendment requests like Foreign Trader  ,"Verify Shipping Agent can submit amendment requests like Foreign Trader
+
+Pre-requisite: Registered Shipping Agent with authorization",TS-01,Submit Authorization Amendment request,Valid Shipping Agent credentials,Amendment request processed as Trader; normal flow applies
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-296,TS_TA_296_Verify notification sent to submitter and users with dependencies on frozen auth  ,"Verify notification sent to submitter and users with dependencies on frozen auth
+
+Pre-requisite: Frozen Authorization approved",TS-01,Freeze Authorization request,,Submitter and users with dependencies receive notification of freezing
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-297,TS_TA_297_Verify error when submitting amendment with special characters in description  ,"Verify error when submitting amendment with special characters in description
+
+Pre-requisite: Authorization Amendment form open",TS-01,Enter special characters in description and submit,Description: @@@###$$$,"Error message: ""Invalid characters in description field"""
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-298,TS_TA_298_Verify system prevents amendment for zone/component already pending in another request  ,"Verify system prevents amendment for zone/component already pending in another request
+
+Pre-requisite: Pending amendment request exists for same zone/component",TS-01,Submit new amendment request for same zone/component,Zone Profile A (already in pending request),"Error message: ""Amendment already pending for selected zone/component"""
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-299,TS_TA_299_Verify error when attempting to remove all authorized zones/components without de-authorizing  ,"Verify error when attempting to remove all authorized zones/components without de-authorizing
+
+Pre-requisite: User has multiple authorized zones/components",TS-01,Select all zones/components for removal and submit,All authorized zones/components selected for removal,"Error message: ""At least one authorized zone/component must remain active"""
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-300,TS_TA_300_Verify error when submitting amendment with no existing authorized zones/components  ,"Verify error when submitting amendment with no existing authorized zones/components
+
+Pre-requisite: User has no authorized zones/components",TS-01,Attempt to open amendment form and submit,No existing authorizations,"Error message: ""No authorized zones/components available for amendment"""
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-301,TS_TA_301_Verify PEGA workflow routes amendment request correctly from BZ Operator to Registration Officer  ,"Verify PEGA workflow routes amendment request correctly from BZ Operator to Registration Officer
+
+Pre-requisite: Amendment request submitted and approved by BZ Operator",TS-01,Track routing path in PEGA backend,Request ID XYZ,Request routed to BZ Registration Officer as per workflow
+BZMS QA ,,Test,QA Backlog,Low,BZMS,SIT 1,Sprint 1,Manual,TODO,TDD-11026,TC-302,TS_TA_302_Verify audit trail entries are correctly logged in PEGA backend for amendment request,"Verify audit trail entries are correctly logged in PEGA backend for amendment request
+
+Pre-requisite: Amendment request submitted and processed",TS-01,Check audit logs in PEGA backend,Request ID XYZ,"Audit log contains timestamp, submitter ID, action taken, and status"
