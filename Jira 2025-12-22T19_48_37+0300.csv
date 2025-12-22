@@ -1,0 +1,962 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Due Date,Labels,Labels,Description,Environment,Watchers,Watchers,Watchers,Watchers,Watchers,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Belongs to),Outward issue link (Belongs to),Outward issue link (Belongs to),Inward issue link (Blocks),Inward issue link (Blocks),Attachment,Attachment,Attachment,Attachment,Attachment,Attachment,"&#39;Analysis Planning&#39; SLA in BRD","&#39;Analysis Planning&#39; SLA in BRD simplified","&#39;Approved POT&#39; SLA for UAT","&#39;Approved POT&#39; SLA for UAT simplified","&#39;BA Approval&#39; SLA for Test Plan","&#39;BA Approval&#39; SLA for Test Plan simplified","&#39;BRD Approved&#39; SLA in BRD","&#39;BRD Approved&#39; SLA in BRD simplified","&#39;BRD On Hold&#39; SLA in BRD","&#39;BRD On Hold&#39; SLA in BRD simplified","&#39;Backlog&#39; SLA for UAT","&#39;Backlog&#39; SLA for UAT simplified","&#39;Backlog&#39; SLA in BRD","&#39;Backlog&#39; SLA in BRD simplified","&#39;Business Approval&#39; SLA in BRD","&#39;Business Approval&#39; SLA in BRD simplified","&#39;Business Owner Input&#39; SLA in BRD","&#39;Business Owner Input&#39; SLA in BRD simplified","&#39;Business Review&#39; SLA in BRD","&#39;Business Review&#39; SLA in BRD simplified","&#39;Circular Sessions&#39; SLA in BRD","&#39;Circular Sessions&#39; SLA in BRD simplified","&#39;Collect Test Data&#39; SLA in QA","&#39;Collect Test Data&#39; SLA in QA simplified","&#39;Developing Test Cases&#39; SLA in QA","&#39;Developing Test Cases&#39; SLA in QA simplified","&#39;Internal Quality Check&#39; SLA in BRD","&#39;Internal Quality Check&#39; SLA in BRD simplified","&#39;New&#39; SLA for QA","&#39;New&#39; SLA for QA simplified","&#39;QA Team Lead Approval&#39; SLA in QA","&#39;QA Team Lead Approval&#39; SLA in QA simplified","&#39;Review POT&#39; SLA for UAT","&#39;Review POT&#39; SLA for UAT simplified","&#39;Review Proof Of Test&#39; SLA in UAT","&#39;Review Proof Of Test&#39; SLA in UAT simplified","&#39;Test Planning&#39; SLA in QA","&#39;Test Planning&#39; SLA in QA simplified","&#39;Test Planning&#39; SLA in UAT","&#39;Test Planning&#39; SLA in UAT simplified","&#39;Update BRD&#39; SLA in BRD","&#39;Update BRD&#39; SLA in BRD simplified","&#39;Update POT&#39; SLA for UAT","&#39;Update POT&#39; SLA for UAT simplified",Custom field (AO TL),Custom field (Actual Go live date),Custom field (Agency),Analysis SLA,Analysis SLA simplified,Custom field (Analysis Scheduled End Date),Custom field (Analysis Scheduled Start Date),Custom field (Analysis actual end date),Custom field (Analysis end date),Custom field (Analysis start date),Custom field (Application name),Custom field (Approval condition),Custom field (Approved Counts),Custom field (Assumptions & Risks),Custom field (Automation Progress),BA Review,BA Review simplified,BO Review,BO Review simplified,Custom field (BRD Actual Start Date),BRD Business Approval,BRD Business Approval simplified,Custom field (BRD End Date),Custom field (BRD Start Date),Custom field (Baseline end date),Custom field (Baseline start date),Custom field (Business Analyst),Custom field (Business Operations Custom Approved),Custom field (Business Operations Zakat Approved),Custom field (Business Owner),Business Review,Business Review simplified,Custom field (Business Unit),Custom field (CAB comment),Custom field (CR),Custom field (CR Key),Custom field (CR Stage),CSCM SLA,CSCM SLA simplified,Custom field (CX Approved),Custom field (Cancellation reason),Custom field (Category),Custom field (Change Impact),Custom field (Change Manager),Custom field (Change completion date),Custom field (Change reason),Custom field (Change risk),Custom field (Change start date),Custom field (Change type),"Collect Test Data&#39; SLA in UAT","Collect Test Data&#39; SLA in UAT simplified",Custom field (Community),"Complex &#39;BO Approval&#39; SLA in Test plan","Complex &#39;BO Approval&#39; SLA in Test plan simplified","Complex &#39;WIP&#39; SLA for Test Plan","Complex &#39;WIP&#39; SLA for Test Plan simplified","Complex &#39;WIP&#39; SLA for UAT","Complex &#39;WIP&#39; SLA for UAT simplified",Custom field (Complexity),Custom field (Contingency plan),Custom field (Created date),Custom field (Current Assignee),Custom field (Current Situation or Problem Observed),Custom field (Current stage delay days),Custom field (Custom Security Approved),Customer Request Type,Custom field (Defect source),Custom field (Defect type),Custom field (Department),Custom field (Deployment Coordinator),Custom field (Dev End Date),Custom field (Dev Start Date),Develop BRD,Develop BRD simplified,Custom field (Developer),Custom field (Development Scheduled End Date),Custom field (Development Scheduled Start Date),Custom field (Downtime),EA Assessment,EA Assessment simplified,Effort Estimation,Effort Estimation simplified,Custom field (End date),Custom field (Environment Details),Custom field (Epic Link),Custom field (Escalated),Custom field (Escalated by),Custom field (Escalation Impact),Custom field (Escalation Responsible),Custom field (Feature Branch Link),Custom field (Flag),Custom field (Go Live delayed days),Custom field (Hypercare support end date),Custom field (IR Approved date),Custom field (IT Approved),Custom field (Idea approval level 1),Custom field (Idea approval level 1),Custom field (Idea approval level 1),Custom field (Idea approval level 1),Custom field (Idea approval level 1),Custom field (Idea approval level 1),Custom field (Idea approval level 1),Custom field (Idea approval level 1),Custom field (Idea approval level 2),Custom field (Idea approval level 2),Custom field (Idea approval level 2),Custom field (Idea approval level 2),Custom field (Idea approval level 2),Custom field (Impact),Custom field (Impacted Applications),Custom field (Impacted Departments),Custom field (Investigation reason),Custom field (Is it regression bugs),Custom field (Is the performance Test needed after UAT?),Custom field (L1 Delivery and Demand Director),Custom field (L2 Business Solutions General Manager),Custom field (L3 Vice Governor),Custom field (Legal Approved),Custom field (Linked major incidents),"Low &#39;Backlog&#39; SLA in UAT","Low &#39;Backlog&#39; SLA in UAT simplified","Low &#39;WIP&#39; SLA to Test plan","Low &#39;WIP&#39; SLA to Test plan simplified",Custom field (Make sure the BRD attachment uploaded),"Medium &#39;BO Approval&#39; SLA in QA","Medium &#39;BO Approval&#39; SLA in QA simplified","Medium &#39;Backlog&#39; SLA in UAT","Medium &#39;Backlog&#39; SLA in UAT simplified","Medium &#39;Develop Test Cases&#39; SLA for QA","Medium &#39;Develop Test Cases&#39; SLA for QA simplified","Medium &#39;WIP&#39; SLA in QA","Medium &#39;WIP&#39; SLA in QA simplified",Custom field (Module Label),Custom field (Objective),Custom field (On Hold date),Custom field (On hold reason),Custom field (Operational categorization),Custom field (Original story points),Custom field (Other reason),Custom field (Parent Link),Custom field (Pending reason),Custom field (Plan Go live Delayed Days),Custom field (Planned Go Live Date),Custom field (Planned Go Live Scheduled Date),Custom field (Planned UAT end date),Custom field (Planned UAT start date),Custom field (Priority Justification),Custom field (Product categorization),Custom field (Program Increment),Custom field (Project Related),Custom field (Project manager),Custom field (QA Actual Start Date),QA Defect Fixing,QA Defect Fixing simplified,Custom field (QA End Date),QA SLA,QA SLA simplified,Custom field (QA SPOC),Custom field (QA Scheduled End Date),Custom field (QA Scheduled Start Date),Custom field (QA Start Date),Custom field (QA entry Criteria),Custom field (QA exit criteria),Quality Assurance,Quality Assurance simplified,Custom field (RCA),Custom field (RE Developer),Custom field (Rank),Custom field (Reason),Custom field (Regression Label),Custom field (Regression Status),Custom field (Rejection reason),Custom field (Release Date & Time),Custom field (Release impact),Custom field (Request participants),Custom field (Revised UAT planned end date),Custom field (Risk Approved),Custom field (Risk consequence),Custom field (Risk probability),Custom field (Root cause),Custom field (SA),Custom field (SDD Actual End Date),Custom field (SDD end date),Custom field (SDD start date),SLA1,SLA1 simplified,Satisfaction score (out of 5),Custom field (Section),Custom field (Section manager),Custom field (Severity),Custom field (Solution Architect),Custom field (Source),Custom field (Start date),Custom field (Story Points),Custom field (Strategy Approved),Custom field (Support Summary),Custom field (Suspension & resumption criteria),Custom field (TFS Effort estimation end date),Custom field (TFS Effort estimation start date),Custom field (TFS ID),TTM,TTM simplified,Custom field (Target end),Custom field (Target start),Custom field (Targeted End Date),Custom field (Targeted Start Date),Custom field (Task mode),Custom field (Task progress),Custom field (Team),Custom field (Temp Analysis end date),Custom field (Temp Analysis start date),Custom field (Temp Dev End Date),Custom field (Temp Dev Start Date),Custom field (Test Case Cycle),Custom field (Test Case Sprint),Custom field (Testing Cycle),Time to approve normal change,Time to approve normal change simplified,Time to close after resolution,Time to close after resolution simplified,Time to first response,Time to first response simplified,Time to resolution,Time to resolution simplified,Custom field (Title),Custom field (Treatment plan),UAT,UAT simplified,Custom field (UAT),Custom field (UAT Actual Start Date),UAT Defect Fixing,UAT Defect Fixing simplified,Custom field (UAT End Date),UAT SLA,UAT SLA simplified,UAT Scenario creation,UAT Scenario creation simplified,UAT Scenarios Approval,UAT Scenarios Approval simplified,UAT Scenarios Review,UAT Scenarios Review simplified,Custom field (UAT Scheduled End Date),Custom field (UAT Scheduled Start Date),Custom field (UAT Start Date),UAT Tests Review,UAT Tests Review simplified,Under Development,Under Development simplified,Custom field (Urgency),UserStory Dev Review,UserStory Dev Review simplified,Waiting for GRC Assesment,Waiting for GRC Assesment simplified,Waiting for Requester,Waiting for Requester simplified,Custom field (Walkthrough date),Custom field (Which date do you need to reschedule?),Custom field (Workaround),hypercare support,hypercare support simplified,Custom field (start date),Custom field (اجراء العمل الحالي),Custom field (الحل المقترح),Custom field (المخاطر),Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment,Comment
+For a Pre-Licensed Operator Flow - mapped services and components data not getting auto-populate,BQ-1670,461161,Defect,New,BQ,BZMS QA ,business,sysadmin,,,High,,anssharma-c,shgandhi-c,shgandhi-c,22/Dec/25 2:18 PM,22/Dec/25 2:53 PM,22/Dec/25 7:48 PM,,,BZMS_BE,,"Desc: US11019- Pre-Licensed Operator Flow
+ 
+*Steps to reproduce:*
+1. BZ Registration Officer logs into BZMS portal (Login dependency) 
+2. Officer navigates to the dashboard and initiates a new Zone Profile creation request 
+3. Officer fills the Basic Information section: Zone Name, Zone Type (from predefined types), State, ZATCA Representative .
+
+4. Officer enters license for a pre-licensed operator (ZATCA licensed) .
+5.Observe the result. Data doesn't get auto-populated.
+
+Actual Result: *Data doesn't get auto-populated., when user enters the license number*
+
+Expected Result: System automatically retrieves mapped services and components; manual input is disabled ",,shgandhi-c,,,,,,,,,,,,,TDD-11019,,,,,"22/Dec/25 2:42 PM;shgandhi-c;zp.png;https://jira.zatca.gov.sa/secure/attachment/510343/zp.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22s3r:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Foreign Trader-Data not populated after clicking Register as Operator.,BQ-1669,461158,Defect,QA TL Review,BQ,BZMS QA ,business,sysadmin,,,Medium,,smishra-c,sbehera-c,sbehera-c,22/Dec/25 2:06 PM,22/Dec/25 4:33 PM,22/Dec/25 7:48 PM,,,BZMS_FE,,"Description
+When the user clicks Register as Operator, the expected behavior is that all relevant details such as Establishment Name, Licensing Authority, and other associated data should be automatically populated on the page.
+
+However, the system displays “No data available”, leaving the fields empty.
+ 
+Expected Result
+All relevant data (Establishment Name, Licensing Authority, etc.) should be populated automatically after clicking Register as Operator.
+Actual Result
+Page shows No data available.
+Fields like Establishment Name and Licensing Authority remain empty.
+Steps to Reproduce
+Navigate to the operator registration section.
+Click Register as Operator.
+ ",,sbehera-c,,,,,,,,,,,,,,,,TDD-11406,,"22/Dec/25 2:21 PM;sbehera-c;Register as Operator Blank page issue.png;https://jira.zatca.gov.sa/secure/attachment/510329/Register+as+Operator+Blank+page+issue.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22s33:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Incorrect error message displayed for duplicate tenant creation.,BQ-1668,460922,Defect,New,BQ,BZMS QA ,business,sysadmin,,,Low,,smishra-c,sbehera-c,sbehera-c,21/Dec/25 5:41 PM,22/Dec/25 8:00 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"Expected: Error message should be ""Tenant already exist"".
+Actual: Submission ,Unable to save the details. Please try again.
+Steps to Reproduce:
+1.    Log in as Operator.
+2.    Navigate to account management dashboard.
+3.    Attempt to add a tenant with duplicate details.",,sbehera-c,,,,,,,,,,,,,,,,TDD-10991,,"21/Dec/25 5:45 PM;sbehera-c;Image.png;https://jira.zatca.gov.sa/secure/attachment/510072/Image.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22qef:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Request Details page displays “N/A” for key fields after submission, and the request does not appear on the dashboard—blocking the amendment flow.",BQ-1666,460844,Defect,New,BQ,BZMS QA ,business,sysadmin,,,Blocker,,smishra-c,dhariani-c,dhariani-c,21/Dec/25 4:24 PM,22/Dec/25 8:10 AM,22/Dec/25 7:46 PM,,22/Dec/25 12:00 AM,BZMS_FE,,"*Description: US11403*
+Request Details page displays “N/A” for key fields after submission, and the request does not appear on the dashboard—blocking the amendment flow.
+
+*Steps to reproduce:*
+ # Log in as Operator to BZMS portal.
+ # Navigate to account management -> Trader Details
+ # Click on add new trader.
+ # Fill bonded zone details
+ # Fill Trader details, Move to summary.
+ # Click on Submit button.
+ # Request is Generated.
+ # Click on view request, observe request details page:
+
+ 
+
+*Actual:*
+ * Request Details shows *“N/A”* for key fields and *request details page is blank.*
+ * Request not visible on Dashboard.
+ * Amendment flow is blocked as no entry is generated and no data is present in the table
+
+*Expected:*
+ * Request Details should display all submitted values correctly.
+ * Request should appear on the Dashboard immediately.
+ * Amendment actions should be available for the submitted request.
+
+{*}Please find request response for the same{*}: 
+Request URL:
+[https://sit-api-bzms.zatca.gov.sa/api/v1/sor/operator-trader/request/251221014022459946]
+RESPONSE: 
+{
+    ""Success"": false,
+    ""Data"": null,
+    ""Message"":
+
+{         ""en"": ""The requested path is invalid or incomplete. Please ensure all required path parameters are provided."",         ""ar"": ""المسار المطلوب غير صالح أو غير مكتمل. يرجى التأكد من توفير جميع معلمات المسار المطلوبة.""     }
+
+,
+    ""CorrelationId"": null,
+    ""Status"": 404,
+    ""ErrorCode"": ""RES_404"",
+    ""ErrorType"": ""NoHandlerFoundException""
+}",,dhariani-c,,,,,,,,,,,,,TDD-11404,TDD-11403,,,,"21/Dec/25 4:36 PM;dhariani-c;11403_request.png;https://jira.zatca.gov.sa/secure/attachment/510110/11403_request.png","21/Dec/25 4:36 PM;dhariani-c;11403_request2.png;https://jira.zatca.gov.sa/secure/attachment/510109/11403_request2.png","21/Dec/25 4:36 PM;dhariani-c;11403_request3.png;https://jira.zatca.gov.sa/secure/attachment/510108/11403_request3.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22q9j:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"After amendment submission, “View Request” button redirects to the same submit page instead of displaying the request details page.",BQ-1665,460906,Defect,New,BQ,BZMS QA ,business,sysadmin,,,Medium,,smishra-c,sbehera-c,sbehera-c,21/Dec/25 4:24 PM,22/Dec/25 8:06 AM,22/Dec/25 7:48 PM,,23/Dec/25 12:00 AM,BZMS_FE,,"When verifying that an operator can amend tenant information, the following issue occurs:
+ * After clicking {*}Submit{*}, a success message is displayed along with *Go to Dashboard* and *View Request* buttons.
+ * Clicking *View Request* does *not* open the request details page; instead, it redirects back to the same submit page.
+
+Expected Result
+
+Clicking View Request should open the request details page showing the amended tenant information.
+
+Actual Result
+
+System redirects to the same submit page.
+Request details page is not displayed.
+h3. *Steps to Reproduce*
+ # Navigate to tenant details page.
+ # Click {*}Amend{*}, update tenant information, and click {*}Submit{*}.
+ # On success message screen, click {*}View Request{*}. !image-2025-12-21-18-53-38-484.png!!image-2025-12-21-18-52-54-698.png!
+ ",,sbehera-c,,,,,,,,,,,,,,,,TDD-10992,,"21/Dec/25 4:22 PM;sbehera-c;image-2025-12-21-18-52-54-698.png;https://jira.zatca.gov.sa/secure/attachment/510031/image-2025-12-21-18-52-54-698.png","21/Dec/25 4:23 PM;sbehera-c;image-2025-12-21-18-53-38-484.png;https://jira.zatca.gov.sa/secure/attachment/510030/image-2025-12-21-18-53-38-484.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22q9b:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Save Draft throws “submission failed”,BQ-1664,460841,Defect,New,BQ,BZMS QA ,business,sysadmin,,,High,,smishra-c,dhariani-c,dhariani-c,21/Dec/25 4:08 PM,22/Dec/25 8:04 AM,22/Dec/25 7:48 PM,,23/Dec/25 12:00 AM,BZMS_FE,,"*Description: US11403*
+Save Draft throws “submission failed”
+
+*Steps to reproduce:*
+ # Log in as Operator to BZMS portal.
+ # Navigate to account management -> Trader Details
+ # Click on add new trader.
+ # Fill bonded zone details.
+ # Fill Trader details and click on {*}Save Draft{*}.
+
+*Actual:*
+System displays error: “submission failed” and draft is not saved.
+
+*Expected:*
+Save Draft should persist the current state without errors and confirm draft saved.",,dhariani-c,,,,,,,,,,,,,TDD-11403,,,,,"21/Dec/25 4:12 PM;dhariani-c;11403_draft.png;https://jira.zatca.gov.sa/secure/attachment/510104/11403_draft.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22q7z:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Tenant amendment request does not update after amendment by operator in BZMS Portal.,BQ-1663,460790,Defect,New,BQ,BZMS QA ,business,sysadmin,,,Highest,,anssharma-c,sbehera-c,sbehera-c,21/Dec/25 3:57 PM,22/Dec/25 3:59 PM,22/Dec/25 7:46 PM,,23/Dec/25 12:00 AM,BZMS_BE,BZMS_FE,"h3. *Expected Result*
+ * Tenant amendment request should reflect the updated value after amendment.
+
+h3. *Actual Result*
+ * Tenant name remains the same as before the amendment. Not visible in BZMS Portal.
+
+h3. *Steps to Reproduce*
+ # Navigate to the tenant details page.
+ # Click *Amend* and update the tenant name.
+ # Submit the amendment.
+ # Check the tenant details in BZMS Portal.",,sbehera-c,,,,,,,,,,,,,,,,TDD-10992,,"21/Dec/25 4:28 PM;sbehera-c;BQ-1663-01.png;https://jira.zatca.gov.sa/secure/attachment/510036/BQ-1663-01.png","21/Dec/25 4:28 PM;sbehera-c;BQ-1663-02.png;https://jira.zatca.gov.sa/secure/attachment/510037/BQ-1663-02.png","21/Dec/25 4:31 PM;sbehera-c;image-2025-12-21-19-01-56-417.png;https://jira.zatca.gov.sa/secure/attachment/510038/image-2025-12-21-19-01-56-417.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22q47:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Trader name selected on the Trader Details page is not displayed correctly on the Step 3 Summary section.,BQ-1662,460835,Defect,New,BQ,BZMS QA ,business,sysadmin,,,High,,smishra-c,dhariani-c,dhariani-c,21/Dec/25 3:56 PM,22/Dec/25 8:03 AM,22/Dec/25 7:48 PM,,23/Dec/25 12:00 AM,BZMS_FE,,"*Description: US11403*
+Trader name selected on the Trader Details page is not displayed on the Step 3 Summary section.
+
+*Steps to reproduce:*
+ # Log in as Operator to BZMS portal.
+ # Navigate to account management -> Trader Details
+ # Click on add new trader.
+ # Fill bonded zone details
+ # Proceed to *Trader Details* and select a trader -applies to both Full Control and Partial Control flows.
+ # Continue to the *Summary* page -Step 3.
+
+*Actual:*
+Trader name field shows incorrect data while submitting the request.
+
+*Expected:*
+Selected trader name should be displayed correctly in the Summary section for both Full and Partial control flows.",,dhariani-c,,,,,,,,,,,,,TDD-11403,,,,,"21/Dec/25 4:04 PM;dhariani-c;11403_1.png;https://jira.zatca.gov.sa/secure/attachment/509897/11403_1.png","21/Dec/25 4:04 PM;dhariani-c;11403_2.png;https://jira.zatca.gov.sa/secure/attachment/509896/11403_2.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22q3z:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"When a Foreign Trader requests to be an Operator, the view request functionality is not navigating to the current application request.",BQ-1659,460654,Defect,in Processing,BQ,BZMS QA ,business,sysadmin,,,Highest,,smishra-c,ybaba-c,ybaba-c,21/Dec/25 12:59 PM,21/Dec/25 4:41 PM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,BZMS_FE,," 
+
+*Description:*
+When a Foreign Trader requests to be an Operator, fills in all mandatory details and submits the request, it is getting submitted successfully but when we click on view request, it is navigating to only one application which is already approved by the ZATCA Officer every time.
+
+Reported by Pavan Kumar
+
+*Steps to reproduce*
+1. Login to the BZMS portal as a Foreign Trader
+2. Account Management -> Register as an Operator
+3. Add details and submit
+4. Observe the Application number/ID
+5. Click on the view request
+6. Observe the Application ID, Submission date and ZATCA Decision
+
+{*}Actual result{*}: Every time a new request is getting submitted, View request button is navigating to the same application submitted on 17/12 which is already approved.
+{*}Expected Result{*}: When we click on the view request, it should navigate us to the current application and show the date of submission as current date and decision as Pending.
+
+ ",,ybaba-c,,,,,,,,,,,,,TDD-11407,,,,,"21/Dec/25 1:00 PM;ybaba-c;view request page issue 1.png;https://jira.zatca.gov.sa/secure/attachment/509811/view+request+page+issue+1.png","21/Dec/25 1:00 PM;ybaba-c;view request page issue 2.png;https://jira.zatca.gov.sa/secure/attachment/509810/view+request+page+issue+2.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22p67:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Approval flow must be done 3 times as the Supervisor for the status to be changed to RESOLVED COMPLETED,BQ-1658,460582,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Highest,,ybaba-c,ybaba-c,ybaba-c,21/Dec/25 11:19 AM,22/Dec/25 4:29 PM,22/Dec/25 6:11 PM,,22/Dec/25 12:00 AM,BZMS_BE,,"When a zone type creation request is sent and has to be approved by the supervisor, the approval flow is iterating *three times* for the status to be reflected as *Resolved completed*
+
+*Steps to reproduce:*
+1.Create a zone type request as officer
+2.Login as Supervisor and search for the created request
+3.Approve the request
+4.Observe the flow
+
+*Actual result:*
+*1.When the supervisor approves the request for the first time the status changes to - Approved by officer*
+*!FirstApproval.png|width=349,height=163!*
+*2.The supervisor clicks on ""GO"" again and approves for the second time status changes to - Approved by Supervisor*
+*!SeondApproval.png|width=410,height=164!*
+{*}3.{*}{*}The supervisor clicks on ""GO"" again and approves for the third time status changes to - Resolved completed{*}
+*!ThirdApproval.png|width=550,height=236!*
+
+*EXPECTED RESULT: The supervisor should be able to approve the request in one go and the status should be changed to ""resolved completed""*",,ybaba-c,,,,,,,,,,,,,TDD-11017,,,,,"21/Dec/25 11:37 AM;ybaba-c;FirstApproval.png;https://jira.zatca.gov.sa/secure/attachment/509752/FirstApproval.png","21/Dec/25 11:42 AM;ybaba-c;SeondApproval.png;https://jira.zatca.gov.sa/secure/attachment/509755/SeondApproval.png","21/Dec/25 11:47 AM;ybaba-c;ThirdApproval.png;https://jira.zatca.gov.sa/secure/attachment/509757/ThirdApproval.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Configuration Issue,,"0|i22otr:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Zone type creation - Zone description should be named as only ""Description"" as per FIGMA",BQ-1657,460575,Defect,New,BQ,BZMS QA ,business,sysadmin,,,Low,,anssharma-c,ybaba-c,ybaba-c,21/Dec/25 10:59 AM,21/Dec/25 5:05 PM,22/Dec/25 7:48 PM,,23/Dec/25 12:00 AM,BZMS_BE,,"*Description:*
+During creation of a zone type, the description should be named only as ""Description"" instead of ""Zone description""
+
+*Steps to reproduce:*
+1.Login as a BZMS Officer through backend portal
+2.Click on create->Create zone type
+3.Observe description title in the zone type creation page
+
+*Actual result:* Description is displayed as ""Zone description""
+*Expected result:* Description label should be displayed as ""Description""",,ybaba-c,,,,,,,,,,,,,TDD-11017,,,,,"21/Dec/25 11:16 AM;ybaba-c;Licencing authority_FIGMA.png;https://jira.zatca.gov.sa/secure/attachment/509744/Licencing+authority_FIGMA.png","21/Dec/25 11:16 AM;ybaba-c;Zone description.png;https://jira.zatca.gov.sa/secure/attachment/509743/Zone+description.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22onj:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Creation of zone type - Other option is not visible under Licensing authority to select Authority name ,BQ-1656,460568,Defect,New,BQ,BZMS QA ,business,sysadmin,,,High,,anssharma-c,ybaba-c,ybaba-c,21/Dec/25 10:44 AM,21/Dec/25 5:05 PM,22/Dec/25 7:48 PM,,23/Dec/25 12:00 AM,BZMS_BE,,"*Description:*
+During creation of a zone type, the officer is not able to see ""Other"" option under Licensing authority to enter Authority name.
+
+{*}Steps to reproduce{*}:
+1.Login to to BZMS backend portal as an officer
+2.Click on create->Create zone type
+3.Select Licensing authority dropdown
+4.Observe the options
+
+*Actual result:* Other option is not visible in the dropdown  Licensing authority
+
+*Expected result:* Other option should be present under Licensing authority to select Authority name",,ybaba-c,,,,,,,,,,,,,TDD-11017,,,,,"21/Dec/25 10:57 AM;ybaba-c;Licencing authority_FIGMA.png;https://jira.zatca.gov.sa/secure/attachment/509733/Licencing+authority_FIGMA.png","21/Dec/25 10:57 AM;ybaba-c;OtherOption_Licensing authority.png;https://jira.zatca.gov.sa/secure/attachment/509732/OtherOption_Licensing+authority.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22ohr:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Link SubService option is incorrectly visible on Create Zone Type screen,BQ-1655,460562,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Low,,ybaba-c,ybaba-c,ybaba-c,21/Dec/25 8:20 AM,22/Dec/25 9:44 AM,22/Dec/25 12:08 PM,,22/Dec/25 12:00 AM,BZMS_BE,,"*Description:*
+In the Create Zone Type screen, the “Link SubService” option appears in the left navigation panel.
+This option should NOT be visible as per Figma.
+
+*Steps to Reproduce:*
+Login to BZMS Backend Officer Portal as BZ Registration Officer.
+Navigate to Create → Create Zone Type.
+Open any Zone Type record.
+Observe the left-side navigation panel.
+
+*Test Data:*
+
+Username: BZMS Officer Test 2
+
+Password: Zatca@123
+
+ 
+
+*Actual Result:*
+The “Link SubService” menu item is displayed under Details.
+
+!image-2025-12-21-10-58-21-632.png|width=508,height=225!
+
+
+*Expected Result:*
+The “Link SubService” option should NOT be displayed anywhere as per Figma.
+This option should be completely removed from UI.
+
+!image-2025-12-21-10-57-42-956.png|width=324,height=222!",,anssharma-c,ybaba-c,,,,,,,,,,,,TDD-11017,,,,,"21/Dec/25 8:27 AM;ybaba-c;image-2025-12-21-10-57-42-956.png;https://jira.zatca.gov.sa/secure/attachment/509716/image-2025-12-21-10-57-42-956.png","21/Dec/25 8:28 AM;ybaba-c;image-2025-12-21-10-58-21-632.png;https://jira.zatca.gov.sa/secure/attachment/509717/image-2025-12-21-10-58-21-632.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Coding Issue,,"0|i22ofj:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"22/Dec/25 7:27 AM;anssharma-c;This is as per the story TDD-11015. ;;;","22/Dec/25 9:15 AM;anssharma-c;Ignore above comments - reopened.;;;",,,,,,,
+"Operator is able to approve only for few of the zone profile, not for all/newly created zone profiles through BZMS officer portal",BQ-1654,460477,Defect,in Processing,BQ,BZMS QA ,business,sysadmin,,,Medium,,ybaba-c,ybaba-c,ybaba-c,18/Dec/25 3:44 PM,21/Dec/25 10:56 AM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,,,"*Description:* 
+ 
+When a Local trader creates a new authorization request and submits it for operator’s approval, the submitted application number is not searchable as it was created for a particular zone profile. The operator is able to approve the authorization requests for only specific zone profile (example: Testing zone SIT Three) 
+ 
+ 
+
+*Steps to reproduce* 
+1. Login as a Local trader 
+2. Create a new request for authorization(Zone profile management->Add zone profile) 
+3. Select zone profile as Zone profile test 1 
+4. Complete the authorization form and submit 
+5. Login as Operator and search for the application 
+6. Observe the result 
+ 
+
+*Actual result:* Created authorization request is not searchable.  
+
+*Expected result:* The authorization request should be displayed when searched using application number ",,smishra-c,ybaba-c,,,,,,,,,,,,TDD-11026,TDD-11024,,,,"18/Dec/25 3:45 PM;ybaba-c;OpearatorApproval2.png;https://jira.zatca.gov.sa/secure/attachment/509611/OpearatorApproval2.png","18/Dec/25 3:45 PM;ybaba-c;OperatorApproval1.png;https://jira.zatca.gov.sa/secure/attachment/509612/OperatorApproval1.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22oav:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21/Dec/25 8:10 AM;smishra-c;RCA : Please check  under which operator or tin this zone profile --> ""Zone profile to test multiple components""  has been created and login with that operator credentials and only that operator can approve this request local trader request.
+
+I can see on SIT portal zone profile ""Zone profile to test multiple components"" does not belong to operatot with 1234567890 so the auth request will not go this operator.
+
+ ;;;","21/Dec/25 10:30 AM;ybaba-c; [~smishra-c] Could you please help us with a zone profile which has multiple components. ;;;",,,,,,,
+No error message displayed during login while wrong password is entered for Local/Foreign Trader/Operator ,BQ-1652,460474,Defect,New,BQ,BZMS QA ,business,sysadmin,,,Medium,,smishra-c,ybaba-c,ybaba-c,18/Dec/25 3:40 PM,21/Dec/25 4:29 PM,22/Dec/25 7:45 PM,,22/Dec/25 12:00 AM,,,"*Description:* 
+During the login for Local/Foreign Trader/Operator through the front end BZMS portal no error message is being displayed if wrong password is entered and Login button is clickable 
+ 
+
+*Steps to reproduce* 
+1. Launch the FE BZMS portal 
+2. Enter valid TIN number (1234567890) 
+3. Enter wrong password(eg.gedwggdy) 
+4.Click on login
+5.Observethe behaviour 
+
+ 
+
+*Actual result:* Login button is clickable, and no error is displayed for wrong password.  
+
+*Expected result:* Wrong password entered message should be displayed. ",,ybaba-c,,,,,,,,,,,,,TDD-11026,TDD-11024,,,,"18/Dec/25 3:42 PM;ybaba-c;Login_errormessage.png;https://jira.zatca.gov.sa/secure/attachment/509606/Login_errormessage.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22o9z:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test Data Needed to test Create Zone Profile/Amend Zone Profile flow for Zone Type not licensed by ZATCA Scenario,BQ-1651,460407,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Highest,,ybaba-c,ybaba-c,ybaba-c,17/Dec/25 5:12 PM,22/Dec/25 9:48 AM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,BZMS_BE,,"*Description:*
+
+Test data is missing for Zone type which is not licensed by ZATCA to test the Create and Amend Zone Profile Flow as an Officer.
+
+Tried with Type-Economic Zone as communicated by [~anssharma-c] but still able to see Zone Operator section enabled 
+
+Also Tried to create a sample Zone type and unchecked the box 'This is Licensed by ZATCA' at the time of creation and tried with this. But still able to see Operator Section displayed.
+
+*Steps to Reproduce:*
+ # Login as BZMS Officer
+ # Create/Amend Zone  Profile
+ # Enter Zone type which is not licensed by ZATCA (Tried all in the dropdown)
+ # Observe the Zone Operation Section
+
+*Actual Result:* Zone Operator Section Visible 
+
+*Expected Result:* Zone Operator Section should be disabled as per User story",,ybaba-c,,,,,,,,,,,,,TDD-11019,TDD-11020,,,,"17/Dec/25 5:18 PM;ybaba-c;DummyZoneType_NotLiscensed.png;https://jira.zatca.gov.sa/secure/attachment/509379/DummyZoneType_NotLiscensed.png","17/Dec/25 5:18 PM;ybaba-c;ZoneType-EconomicZone.png;https://jira.zatca.gov.sa/secure/attachment/509381/ZoneType-EconomicZone.png","17/Dec/25 5:18 PM;ybaba-c;ZonetypeNotLicensed-USScenario.png;https://jira.zatca.gov.sa/secure/attachment/509380/ZonetypeNotLicensed-USScenario.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Data Issue,,"0|i22mzj:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"In Create Component screen, Basic Details section does not match Figma – missing fields, incorrect fields and incorrect labels",BQ-1594,460341,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Low,,ybaba-c,ybaba-c,ybaba-c,17/Dec/25 3:10 PM,21/Dec/25 10:01 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"h5. *Description:*
+h5. In the Add Component screen, the Basic Details section in the actual application does not match the  Figma design.
+
+Several discrepancies have been observed including missing mandatory fields, incorrect field names, additional unwanted fields, and missing helper text.As per Figma, the Basic Details section must contain the following fields:
+ * Type‑code/ID*
+ * Component title*
+ * Description
+
+h5. However, the actual screen displays incorrect field such as Building Name and incorrect labels.{*}Steps to Reproduce:{*}
+ # Login to the BZMS backend officer portal.
+ # Navigate to Create → Create Component.
+ # Observe the Basic Details section and compare it with the Figma design.
+
+h3. *Actual Result:*
+h5. The Basic Details section shows the following issues:
+ * “Component title” field is missing.
+ * An incorrect field “Building Name” is displayed (not part of Figma).
+ * Field labels do not match Figma:
+ ** “Component type/Code ID” instead of “Type‑code/ID”
+ ** “Component Description” instead of “Description""
+ * !image-2025-12-17-18-10-05-229.png|width=548,height=242!
+
+----
+h3. Expected Result:
+h5. The Basic Details section should match the Figma design and include:
+ * 
+h5. Correct fields: Type‑code/ID*, Component title*, Description
+
+ * 
+h5. No additional or incorrect fields (e.g., Building Name)
+
+ * 
+h5. Correct field labels matching Figma terminology
+
+!image-2025-12-17-18-14-00-873.png|width=594,height=198!",,anssharma-c,ybaba-c,,,,,,,,,,,,,,,,,"18/Dec/25 7:51 PM;ybaba-c;CreateComponentDetails_NotFixed.png;https://jira.zatca.gov.sa/secure/attachment/509654/CreateComponentDetails_NotFixed.png","17/Dec/25 3:40 PM;ybaba-c;image-2025-12-17-18-10-05-229.png;https://jira.zatca.gov.sa/secure/attachment/509351/image-2025-12-17-18-10-05-229.png","17/Dec/25 3:44 PM;ybaba-c;image-2025-12-17-18-14-00-873.png;https://jira.zatca.gov.sa/secure/attachment/509352/image-2025-12-17-18-14-00-873.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22mjz:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18/Dec/25 5:47 PM;anssharma-c;Fixed and Deployed.;;;","18/Dec/25 7:50 PM;ybaba-c;Reviewed the Create components Basic Details Form. Observed that Type-code/ID and Description is Corrected. But building name is still present instead of Component Title. Reopening the issue ;;;","18/Dec/25 7:51 PM;ybaba-c;!CreateComponentDetails_NotFixed.png|width=1167,height=386!;;;","21/Dec/25 10:01 AM;anssharma-c;HEllo [~ybaba-c] this is developed as per story 5. BZ Registration Officer enters example details such as: 
+o Building Name: “Main Storage Building” 
+o Child Component: “Warehouse A” under the Main Storage Building 
+• 
+o Sub-Component: “Shelf A1” under Warehouse A 
+
+
+
+ 
+
+Building name is part of the story and design also reflects the same. ;;;",,,,,
+Unable to create sub-service – Error message displayed during submission.,BQ-1591,459684,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,High,,sbehera-c,sbehera-c,sbehera-c,17/Dec/25 11:16 AM,22/Dec/25 4:30 PM,22/Dec/25 7:48 PM,,21/Dec/25 12:00 AM,BZMS_BE,,"h3. *Expected Result*
+ * Service form should display correctly.
+ * Sub-service fields should accept valid input:
+ ** *Sub Service Code ID*
+ ** *Sub Service Title*
+ * KPI fields should populate automatically.
+ * Sub-service should be created successfully and linked as required.
+
+h3. *Actual Result*
+
+Unable to create sub-service; error message is displayed during submission.
+
+Error- 
+ * *The Flow Action post-processing transform rule ValidateMasterDataZoneProperties failed: InvalidReferenceException*
+ * *InvalidReferenceException .SubServiceTest Property &#39;SubServiceTest&#39; does not exist on class &#39;Zatca-BZMS-Data-SubServiceDetails&#39;*
+ 
+h3. *Steps to Reproduce*
+ # Log in to the BZMS portal.
+ # Navigate to {*}Create Sub-Service{*}.
+ # Fill in all mandatory fields (Sub Service Code ID, Title, KPI fields).
+ # Click {*}Submit{*}.
+ # Observe the error message and failure to create sub-service.
+ 
+ ",,anssharma-c,sbehera-c,ybaba-c,,,,,,,,,,,,,,TDD-11015,,"17/Dec/25 5:19 PM;ybaba-c;CreateSubSer01.png;https://jira.zatca.gov.sa/secure/attachment/509382/CreateSubSer01.png","17/Dec/25 5:19 PM;ybaba-c;CreateSubSer02.png;https://jira.zatca.gov.sa/secure/attachment/509383/CreateSubSer02.png","18/Dec/25 4:52 PM;ybaba-c;Figma_Service and sub service.png;https://jira.zatca.gov.sa/secure/attachment/509633/Figma_Service+and+sub+service.png","18/Dec/25 4:51 PM;ybaba-c;Service and sub service_Application.png;https://jira.zatca.gov.sa/secure/attachment/509630/Service+and+sub+service_Application.png","17/Dec/25 11:16 AM;sbehera-c;SubServices01.png;https://jira.zatca.gov.sa/secure/attachment/508861/SubServices01.png","18/Dec/25 4:52 PM;ybaba-c;US_11015_Userstory steps.png;https://jira.zatca.gov.sa/secure/attachment/509632/US_11015_Userstory+steps.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22k2v:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17/Dec/25 3:36 PM;anssharma-c;Ready for retest;;;","17/Dec/25 5:20 PM;ybaba-c;Thank You.. Now able to create Sub Services.;;;","18/Dec/25 4:52 PM;ybaba-c;Retested the Issue - Functionality is working Fine but Instead of Add new Service/Create New Service - There are 2 options referring to the same  Create Service and subservice and Create sub service. So It is not following the Figma rule .
+Attached the figma screen and User story steps screen shots in attachments
+!Service and sub service_Application.png|width=1119,height=483!;;;","21/Dec/25 10:16 AM;anssharma-c;Hello this is developed as per story's happy scenario : Happy Scenario 3: *Create a new sub service that can be linked with main service later* 
+1. BZ Registration Officer will log into BZMS portal (backend officer portal) as per (login user story “dependency”) 
+2. BZ Registration Officer will access their dashboard to identify which requests can be submitted for bonded zone services 
+3. BZ Registration Officer will select to add a new bonded zone sub service 
+4. The BZ Registration Officer will complete the service addition form, which includes (but is not limited to) Sub–Service Title and description, with the service type specified as a sub service 
+5. The Registered BZ Registration Officer, continues to fill in the Service Details including the KPIs by selecting the KPI type needed for the sub service quality evaluation 
+6. The Registered BZ Registration Officer, then goes ahead and submits the sub service Addition form 
+7. The Registered BZ Registration Officer’s, sub service addition request status will then be stated as ""Submitted""
+
+ 
+
+RCA: Not a bug
+
+ 
+
+NEeds to be rejected;;;",,,,,
+HS Code is not displayed on the Approval screen after performing an amendment in the Master UOM record.,BQ-1590,459632,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,High,,ybaba-c,ybaba-c,ybaba-c,16/Dec/25 5:35 PM,22/Dec/25 8:38 AM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,BZMS_BE,,"+*Description:*+
+When amending a Master UOM, the user manually enters the *HS Code* and submits the amendment request. The request then moves to the *BZ Supervisor* for approval.
+However, when the Supervisor opens the request and views the amendment details, the {*}HS Code value does not appear{*}. The field is shown as blank, even though the user had entered it during the amendment.
+ 
++*Steps to reproduce:*+
+ # Login to BZMS Officer Backend portal as BZ Registration Officer.
+ # Click on Create button then select Amend Master UOM option.
+ # Select the Master UOM from the displayed list for which you want to perform amend operation. and click on Submit.
+ # Enter the the HS code in amendment screen.
+ # Click on 'Submit' button.
+ # Once the request is created it will be routed to BZ Supervisor for the approval.
+ # Now Login to BZMS Officer Backend portal as BZ Supervisor.
+ # Open the amendment request created in Step6.
+ # Observe the HS code details 
+
++*Actual Result:*+
+
+The HS Code field is blank on the Approval screen.
+The value entered during amendment is not displayed to the Supervisor.
+
+!image-2025-12-16-20-17-35-770.png|width=541,height=243!
+
++*Expected Result:*+ 
+The HS Code entered during amendment should be displayed correctly on the Supervisor’s Approval screen.",,anssharma-c,ybaba-c,,,,,,,,,,,,TDD-11166,,,,,"18/Dec/25 8:15 PM;ybaba-c;HSCode_CreateUOMFlow.png;https://jira.zatca.gov.sa/secure/attachment/509597/HSCode_CreateUOMFlow.png","18/Dec/25 8:15 PM;ybaba-c;HSCodeFixed_UOMAmend.png;https://jira.zatca.gov.sa/secure/attachment/509598/HSCodeFixed_UOMAmend.png","16/Dec/25 5:47 PM;ybaba-c;image-2025-12-16-20-17-35-770.png;https://jira.zatca.gov.sa/secure/attachment/508493/image-2025-12-16-20-17-35-770.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22ikf:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18/Dec/25 8:15 PM;ybaba-c;Retested the Issue - HS code manually entered is visible to the supervisor for the Amend UOM Request but not in the Create UOM Request for the same Request BUOM-69 and same HS code 930111000000
+
+Refer the Attachments for the Screenshots;;;","21/Dec/25 9:20 AM;anssharma-c;Requesting to test with new cases.
+
+RCA: Coding;;;",,,,,,,
+Freeze toggle present in the details section for the Zone details and added Operators flow for both Officer and Supervisor Login,BQ-427,458455,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Medium,,ybaba-c,ybaba-c,ybaba-c,16/Dec/25 3:54 PM,22/Dec/25 9:51 AM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,BZMS_BE,,"*Description:* ** 
+Once the Registered BZ Registration Officer amends a zone profile and submits the amendment request the Freeze zone toggle is visible under details section  
+ 
+*Steps to reproduce* *:*
+1. Login to the BZMS officer (Backend portal) as a BZMS officer 
+2. Click on the create button in the home page 
+3. Select Amend zone profile option->Select any eligible request for amendment 
+4. Make required changes in the form and submit 
+5. Observe the freeze toggle under details section 
+7. Login as Supervisor->Approve the request->Observe the details section 
+ 
+{*}Actual result{*}*:* The Freeze this zone Toggle is visible under Details section 
+*Expected result:* The status should be changed as submitted and freeze this zone Toggle should not be visible under Details section ",,ybaba-c,,,,,,,,,,,,,TDD-11020,,,,,"16/Dec/25 3:55 PM;ybaba-c;Freeze zone in details for Supervisor_Issue1.png;https://jira.zatca.gov.sa/secure/attachment/508434/Freeze+zone+in+details+for+Supervisor_Issue1.png","16/Dec/25 3:55 PM;ybaba-c;Freeze zone toggle figma_Issue1.png;https://jira.zatca.gov.sa/secure/attachment/508433/Freeze+zone+toggle+figma_Issue1.png","16/Dec/25 3:55 PM;ybaba-c;Freezezone in details for BO_Issue1.png;https://jira.zatca.gov.sa/secure/attachment/508435/Freezezone+in+details+for+BO_Issue1.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Coding Issue,,"0|i22b8n:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+No notification triggered after submitting and approving Amend/Freeze Zone Type request.,BQ-426,458259,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,High,,sbehera-c,sbehera-c,sbehera-c,16/Dec/25 3:45 PM,22/Dec/25 4:35 PM,22/Dec/25 7:48 PM,,21/Dec/25 12:00 AM,BZMS_BE,,"*Expected Behavior:*
+ * After submitting and approving an *Amend/Freeze Zone Type* request, the system should trigger a notification (email/SMS/in-app) to confirm the action to the relevant parties.
+
+*Actual Behavior:*
+ * No notification is triggered after the request is submitted and approved.
+
+h3. *Steps to Reproduce:*
+ # Log in to BZMS portal.
+ # Submit an *Amend/Freeze Zone Type* request.
+ # Approve the request from the backend as Bonded Zone officer.
+ # Check for notifications (email/SMS/in-app).
+ # Observe that no notification is received.",,anssharma-c,sbehera-c,,,,,,,,,,,,,,,TDD-11018,,"16/Dec/25 3:50 PM;sbehera-c;Amend_Notification.png;https://jira.zatca.gov.sa/secure/attachment/508265/Amend_Notification.png","16/Dec/25 3:50 PM;sbehera-c;Freeze_Notification.png;https://jira.zatca.gov.sa/secure/attachment/508266/Freeze_Notification.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22b87:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18/Dec/25 11:59 AM;anssharma-c;|For approvals - no notification requirement mentioned in the story.|;;;","21/Dec/25 10:30 AM;anssharma-c;RCA: Not a bug;;;",,,,,,,
+"Operator Name, Coordinator Last Name, and Mobile Number Missing in Request Details Page",BQ-375,458368,Defect,Re-opened,BQ,BZMS QA ,business,sysadmin,,,High,,smishra-c,dhariani-c,dhariani-c,16/Dec/25 3:28 PM,22/Dec/25 4:18 PM,22/Dec/25 7:48 PM,,21/Dec/25 12:00 AM,BZMS_FE,,"h4. *Description:*
+
+After editing component operator details and submitting changes, the *Request Details* page does not display the following fields:
+ * *Operator Name*
+ * *Coordinator Last Name*
+ * *Coordinator Mobile Number*
+
+These fields appear blank.
+
+*Steps to Reproduce:*
+
+1.Navigate to View Details → Edit Profile → Operator Details.
+2.Select an Operator Name.
+3.Change Coordinator Details.
+4.Click Submit.
+5.Go to View Request → Request Details Page.
+6.Observe that:
+
+Operator Name is missing.
+Coordinator Last Name and Mobile Number are blank.
+
+*Expected Result:*
+The Request Details page should display Operator Name, Coordinator Last Name and
+Coordinator Mobile Number correctly.
+
+*Actual Result:*
+Operator Name is missing.
+Coordinator Last Name and Mobile Number are blank.
+
+ ",,dhariani-c,sbehera-c,,,,,,,,,,,,TDD-11347,,,,,"22/Dec/25 4:17 PM;sbehera-c;BQ-375-01.png;https://jira.zatca.gov.sa/secure/attachment/510525/BQ-375-01.png","16/Dec/25 3:37 PM;dhariani-c;CO_amend.png;https://jira.zatca.gov.sa/secure/attachment/508427/CO_amend.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22aof:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"22/Dec/25 4:18 PM;sbehera-c;Retested ,Same issue still persist .;;;",,,,,,,,
+Label mismatch between Figma design and actual implementation for Broker field.,BQ-374,458360,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Medium,,shgandhi-c,dhariani-c,dhariani-c,16/Dec/25 2:58 PM,21/Dec/25 8:19 AM,22/Dec/25 7:48 PM,,19/Dec/25 12:00 AM,BZMS_FE,,"*Steps to Reproduce:*
+
+1.Log in to BZMS Portal.
+2.Navigate to Account Management → Broker Services.
+3.Open the section where the broker details are displayed.
+4.Observe the field label for broker information.
+h3. *Expected Result:*
+
+Field label should match the Figma design:
+*Broker Name / License Number.*
+
+ 
+h3. *Actual Result:*
+
+Field label in the implemented UI shows:
+*Broker Name / License Number / Broker License Number*
+
+ ",,dhariani-c,,,,,,,,,,,,,TDD-10987,,,,,"16/Dec/25 3:01 PM;dhariani-c;br_lic.png;https://jira.zatca.gov.sa/secure/attachment/508311/br_lic.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22alb:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Incorrect title displayed as “Create Amend Master UOM” with ID increments each time; should display “Amend Master UOM” without visible ID",BQ-370,457883,Defect,in Processing,BQ,BZMS QA ,business,sysadmin,,,Medium,,anssharma-c,ybaba-c,ybaba-c,16/Dec/25 7:08 AM,22/Dec/25 4:05 PM,22/Dec/25 7:48 PM,,23/Dec/25 12:00 AM,BZMS_BE,,"+*Description:*+
+On the Amend Master UOM selection screen, the title currently shows “Create Amend Master UOM (AMEND-UOM-40)”, which is incorrect for an amend operation.
+Additionally, the ID in parentheses (AMEND-UOM-40) increments by one each time the screen is opened. This ID should not be visible in the title.
+
++*Steps to reproduce:*+
+1.    Login to the BZMS Portal (backend officer portal) as BZ Registration Officer
+2.    Click Create-> Amend Master UOM
+3.    Navigate to Amend Master UOM flow.
+4.    Observe the title at the top.
+•    Displays “Create Amend Master UOM (AMEND-UOM-XX)” instead of “Amend Master UOM”.
+•    The ID increments each time the screen is opened (e.g., AMEND-UOM-40 → AMEND-UOM-41).
+
++*Actual result:*+ 
+ -    Title shows “Create Amend Master UOM” instead of “Amend Master UOM”.
+ -    ID is visible in the title and increments unnecessarily each time the screen is accessed
+
++*Expected result:*+ 
+ -    Title should correctly display “Amend Master UOM” for amend operations. 
+ -    ID should not be shown in the title during amend operations.
+
++*Reported By:*+ Yogiraj Baba",,anssharma-c,ybaba-c,,,,,,,,,,,,TDD-11166,,,,,"16/Dec/25 7:17 AM;ybaba-c;image-2025-12-16-09-47-12-041.png;https://jira.zatca.gov.sa/secure/attachment/507672/image-2025-12-16-09-47-12-041.png","16/Dec/25 7:18 AM;ybaba-c;Screenshot 2025-12-16 094324.png;https://jira.zatca.gov.sa/secure/attachment/507673/Screenshot+2025-12-16+094324.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i229jr:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18/Dec/25 11:51 AM;anssharma-c;|This is a product limitation, we need to raise an SR to fix this- INC-C58806|;;;",,,,,,,,
+Alternative UOM Code/ID and Size Code field should be disabled for editing as per figma,BQ-369,457882,Defect,Deferred,BQ,BZMS QA ,business,sysadmin,,,Medium,,ybaba-c,ybaba-c,ybaba-c,16/Dec/25 6:27 AM,22/Dec/25 4:35 PM,22/Dec/25 7:48 PM,,23/Dec/25 12:00 AM,BZMS_BE,,"+*Description:*+
+In the Amend/Freeze Master UOM screen Alternative UOM Code/ID field and the Size code field are editable. As per figma this should be disabled for editing.
+
+
++*Steps to reproduce:*+
+ # Login to the BZMS Portal (backend officer portal) as BZ Registration Officer
+ # Navigate to Amend Master UOM screen.
+ # Scroll to Alternate UOM details. 
+ # In Alternate UOM details section check for Alternative UOM Code/ID field.
+ # In Applicable sizes section check for Size code field.
+
+
+{+}*Actual result*{+}: Both size code and Alternative UOM Code/ID fields are enabled for editing.
+
+!image-2025-12-16-09-09-51-946.png|width=667,height=330!
+
++*Expected result:*+ Both size code and Alternative UOM Code/ID fields should be disabled for editing as per Figma.
+
+!image-2025-12-16-09-12-20-743.png|width=400,height=485!
+
++*Reoprted By:*+ Yogiraj Baba",,anssharma-c,shgandhi-c,ybaba-c,,,,,,,,,,,TDD-11166,,,,,"16/Dec/25 6:39 AM;ybaba-c;image-2025-12-16-09-09-51-946.png;https://jira.zatca.gov.sa/secure/attachment/507670/image-2025-12-16-09-09-51-946.png","16/Dec/25 6:42 AM;ybaba-c;image-2025-12-16-09-12-20-743.png;https://jira.zatca.gov.sa/secure/attachment/507671/image-2025-12-16-09-12-20-743.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i229jj:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17/Dec/25 8:00 AM;anssharma-c;Hello [~ybaba-c]  Unfortunately this is product Bug, this is the product bug *INC-C46965.*;;;","18/Dec/25 7:46 PM;shgandhi-c;Based on the comments, deferring the bug. ;;;","21/Dec/25 10:30 AM;anssharma-c;RCA: not a bug;;;",,,,,,
+Alternative UOM Code/ID and Size Code auto-increment after clearing the field and clicking outside the field,BQ-368,457881,Defect,in Processing,BQ,BZMS QA ,business,sysadmin,,,Medium,,anssharma-c,ybaba-c,ybaba-c,16/Dec/25 6:12 AM,21/Dec/25 10:06 AM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,BZMS_BE,,"+*Description:*+
+In the Amend/Freeze Master UOM screen, when a user clears the value in the Alternative UOM Code/ID field or the Size code field (using Backspace/Delete) and then clicks outside the field, the ID/Code increments by one automatically. This happens each time the user erases and clicks outside, leading to unintended auto-incrementing codes.
+Observed in sections:
+•    Alternate UOM details → Alternative UOM Code/ID
+•    Applicable sizes → Size code
+
+
++*Steps to reproduce:*+
+1.    Login to the BZMS Portal (backend officer portal) as BZ Registration Officer
+2.    Select Amend Master UOM option to navigate to Amend screen.
+3.    Scroll to Alternate UOM details. 
+4.    In Alternative UOM Code/ID field: 
+•    Remove the existing value completely using Backspace/Delete.
+•    Click anywhere outside the field.
+•    Observe that the value changes to an incremented ID.
+•    Repeat the same steps for the Size code field in Applicable sizes section.
+•    Repeat multiple times—each time the code increments by one.
+
++*Actual result:*+
+
+After clearing the field and clicking outside, the Alternative UOM Code/ID and Size code fields auto-populate with an incremented value (e.g., from SUOM-40 to SUOM-41)
+
+!image-2025-12-16-08-49-25-940.png|width=409,height=189!
+
+ 
+
+!image-2025-12-16-08-51-25-594.png|width=411,height=191!
+
++*Expected result:*+
+
+Clearing the field and clicking outside should not auto-increment the value.
+
+ 
+
++*Reported By:*+ Yogiraj Baba",,anssharma-c,ybaba-c,,,,,,,,,,,,TDD-11166,,,,,"16/Dec/25 6:19 AM;ybaba-c;image-2025-12-16-08-49-25-940.png;https://jira.zatca.gov.sa/secure/attachment/507668/image-2025-12-16-08-49-25-940.png","16/Dec/25 6:21 AM;ybaba-c;image-2025-12-16-08-51-25-594.png;https://jira.zatca.gov.sa/secure/attachment/507669/image-2025-12-16-08-51-25-594.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i229jb:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21/Dec/25 9:47 AM;anssharma-c;Working with Zatca team to get custom component to fix this issue.;;;",,,,,,,,
+Create Zone Profile - Bonded Zone Activation date is accepting any past date       ,BQ-363,458138,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,Medium,,ybaba-c,ybaba-c,ybaba-c,15/Dec/25 5:24 PM,21/Dec/25 10:29 AM,22/Dec/25 7:48 PM,,,,,"*Description:* 
+When Officer is trying to create a zone profile the bonded zone activation date is accepting any date which is past the current date which is not logically correct as we are creating a new zone profile on the current date. 
+
+ 
+*Steps to reproduce* 
+1. Login to the BZMS (backend) as an Officer  
+2. Click on Create Zone Profile  
+3. Add all the mandatory details  
+4.Add the authorization date any date which is past the current date 
+5.Observe the error message 
+
+ 
+*Actual result:* Any past date is being accepted  
+*Expected result:* Either current date or future date needs to be accepted  ",,anssharma-c,ybaba-c,,,,,,,,,,,,TDD-11019,,,,,"15/Dec/25 5:44 PM;ybaba-c;Bonded ZoneDate.png;https://jira.zatca.gov.sa/secure/attachment/507756/Bonded+ZoneDate.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i229d3:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15/Dec/25 8:05 PM;anssharma-c;Please refer the DD attached to the story. 
+|BZ-Active-Date |The activation date for the Bonded Zone, when the BZ can start the operations based on the given licenses |Date| | |Selection of date can be on today's date or any previous date up to X date (X date will be defined in business rules)|User must be able to write the date or select the date from the shown calendar (icon to show the calendar should be shown)|One|Today Date|(1) User can't create transaction in future 
+(2) User can create transaction for previous date up to X date (for example up to the beginning of the current running year not before that)|;;;","21/Dec/25 10:29 AM;anssharma-c;RCA: Not a Bug;;;",,,,,,,
+Notification or email not triggered after request submission.,BQ-359,458023,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Medium,,sbehera-c,sbehera-c,sbehera-c,15/Dec/25 2:34 PM,19/Dec/25 3:16 PM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,BZMS_BE,,"*Expected Behavior:*
+ * After submitting a request, the system should send an appropriate notification or email to the relevant parties confirming successful submission.
+
+*Actual Behavior:*
+ * No notification or email is triggered after the request is submitted, leaving the user without confirmation.
+
+Steps to Reproduce:
+ # Log in to BZMS portal.
+ # Click on Create Master UOM
+ # 3.Submit a request (e.g., Operator account or related service).
+ # Check for notification (email/SMS/in-app).
+ # Observe that no confirmation notification or email is received. !image-2025-12-15-17-03-57-324.png!",,anssharma-c,sbehera-c,,,,,,,,,,,,,,,TDD-11165,,"15/Dec/25 2:33 PM;sbehera-c;image-2025-12-15-17-03-57-324.png;https://jira.zatca.gov.sa/secure/attachment/507410/image-2025-12-15-17-03-57-324.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i228fj:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18/Dec/25 5:51 PM;anssharma-c;Fixed and Deployed.
+
+ ;;;",,,,,,,,
+Partial search not working for HS Code mapping when entering first 5 digits,BQ-356,457768,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,High,,sbehera-c,sbehera-c,sbehera-c,15/Dec/25 12:15 PM,21/Dec/25 9:02 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"*Expected Behavior:*
+ * After entering the first 5 digits of an HS Code, the system should display matching HS Code details for mapping.
+
+*Actual Behavior:*
+ * Partial search functionality is not working. No HS Code details appear when only the first 5 digits are entered.
+h3.  
+*Steps to Reproduce:*
+
+ # Log in to BZMS portal.
+ # Navigated to Create Master UOM > Click on Next
+ # Navigate to *HS Code Mapping* section.
+ # Enter the first 5 digits of a valid HS Code.
+ # Observe that no HS Code details are displayed.",,anssharma-c,sbehera-c,,,,,,,,,,,,,,,TDD-11165,,"15/Dec/25 12:14 PM;sbehera-c;image-2025-12-15-14-44-23-161.png;https://jira.zatca.gov.sa/secure/attachment/507284/image-2025-12-15-14-44-23-161.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i227dr:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16/Dec/25 9:47 AM;anssharma-c;Partial search is working fine now as ZATCA made changed to their Tarrif harmonized API to allow partial search : Ready for retest.;;;",,,,,,,,
+Zone Profile dropdown is empty in Zone Authorization section during Foreign Trader registration.,BQ-321,457695,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,High,,shgandhi-c,sbehera-c,sbehera-c,14/Dec/25 6:03 PM,21/Dec/25 8:20 AM,22/Dec/25 7:48 PM,,19/Dec/25 12:00 AM,BZMS_FE,,"Expected: Zone Profile dropdown should display available bonded zone profiles for selection during Zone Authorization. 
+Actual: Zone Profile dropdown is blank; no data is available for selection. 
+Steps to Reproduce: 
+1.    Log in as Foreign Trader. 
+2.    Navigate to registration page and proceed to Zone Authorization section. 
+3.    Observe Zone Profile dropdown.",,anssharma-c,sbehera-c,shgandhi-c,smishra-c,,,,,,,,,,,,,TDD-10985,,"14/Dec/25 6:02 PM;sbehera-c;3.png;https://jira.zatca.gov.sa/secure/attachment/506975/3.png","18/Dec/25 7:26 PM;shgandhi-c;FTRegistrationError.png;https://jira.zatca.gov.sa/secure/attachment/509651/FTRegistrationError.png","18/Dec/25 7:26 PM;shgandhi-c;FTRegistrationError2.png;https://jira.zatca.gov.sa/secure/attachment/509650/FTRegistrationError2.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i226of:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16/Dec/25 2:06 PM;smishra-c;It is data issue and assigning it to PEGA;;;","18/Dec/25 9:30 AM;anssharma-c;FE is not integrating with correct API. Java needs to fix.;;;","18/Dec/25 5:47 PM;smishra-c;Foreign Trader needs to raise the zone authorization access for zone profile via TDD-11025 story then after successful approval from Operator & Officer the approved zone profile will be visible to Foreign Trader during Registration flow in 10985.;;;","18/Dec/25 7:26 PM;shgandhi-c;Retested the issue - Zone Profile dropdown is showing the options and able to select the Zone Profile and Components but while submitting it is throwing error which is changing. For the First time It showed 'Zone Profile Name cannot be empty' and when we close and resubmit it shows 'Zone code cannot be empty' 
+
+Please refer the Attachments for screenshots.;;;",,,,,
+"After registration, clicking View Request redirects to Dashboard instead of Request page.",BQ-320,457694,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Medium,,smishra-c,sbehera-c,sbehera-c,14/Dec/25 5:40 PM,19/Dec/25 11:49 AM,22/Dec/25 7:48 PM,,19/Dec/25 12:00 AM,BZMS_FE,,"Expected: After successful registration, clicking View Request should redirect to the Request page. 
+Actual: Clicking View Request redirects to the Dashboard page instead of the Request page. 
+Steps to Reproduce: 
+1.    Log in as Foreign Trader. 
+2.    Complete registration with valid details. 
+3.    After registration, click View Request. 
+4.    Observe the redirection behavior.",,sbehera-c,smishra-c,,,,,,,,,,,,,,,TDD-10985,,"14/Dec/25 5:57 PM;sbehera-c;5.png;https://jira.zatca.gov.sa/secure/attachment/506973/5.png","14/Dec/25 5:57 PM;sbehera-c;6.png;https://jira.zatca.gov.sa/secure/attachment/506974/6.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i226o7:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"19/Dec/25 11:48 AM;smishra-c;Not able to reproduce it, working Fine for the image size is also not increasing.;;;",,,,,,,,
+HS Code not prefilled and mandatory Description Box missing after clicking Next on Create Master UOM. Without HS code also we can procced. ,BQ-294,457639,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,High,,sbehera-c,sbehera-c,sbehera-c,14/Dec/25 1:48 PM,21/Dec/25 8:44 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"*Expected Behavior:*
+ * After clicking *Next* on the Create Master UOM screen, the system should profile the HS Code and display a {*}Description Box{*}, which is mandatory as per Figma design.
+ * Without HS Code we can't proceed.
+
+*Actual Behavior:*
+ * HS Code is not profiled after clicking {*}Next{*}.
+ * The *Description Box* is missing, even though it is mandatory according to the design.
+ * Here we can proceed without HS Code.
+
+h3. *Steps to Reproduce:*
+ # Log in to BZMS portal.
+ # Navigate to {*}Create Master UOM{*}.
+ # Click *Next* to proceed.
+ # Observe that HS Code is not profiled and Description Box is not displayed.
+ # Skip HS code.
+
+ ",,anssharma-c,sbehera-c,,,,,,,,,,,,,,,TDD-11165,,"14/Dec/25 1:50 PM;sbehera-c;image-2025-12-14-16-20-52-721.png;https://jira.zatca.gov.sa/secure/attachment/506760/image-2025-12-14-16-20-52-721.png","14/Dec/25 1:56 PM;sbehera-c;image-2025-12-14-16-26-54-826.png;https://jira.zatca.gov.sa/secure/attachment/506767/image-2025-12-14-16-26-54-826.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22607:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14/Dec/25 8:24 PM;anssharma-c;Not a bug - HS code cannot be prefilled, same is mentioned in the story and DD that it will user entered,;;;","15/Dec/25 8:21 PM;anssharma-c;Please refer story and DD. 
+
+CC [~shgandhi-c] ;;;",,,,,,,
+Alternative UOM opens directly without linking when creating Master UOM.,BQ-291,457631,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Medium,,sbehera-c,sbehera-c,sbehera-c,14/Dec/25 1:36 PM,21/Dec/25 9:01 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"*Expected Behavior:*
+ * After clicking {*}Create Master UOM{*}, the *Add Master UOM* screen should open, and *Alternative UOM* should remain closed until linked.
+
+*Actual Behavior:*
+ * *Alternative UOM* opens directly without linking, instead of showing the Add Master UOM screen first.
+
+h3. *Steps to Reproduce:*
+ # Log in to BZMS portal.
+ # Navigate to {*}Create Master UOM{*}.
+ # Click on {*}Add Master UOM{*}.
+ # Observe that *Alternative UOM* opens immediately without linking.
+
+ ",,anssharma-c,sbehera-c,,,,,,,,,,,,,,,TDD-11165,,"14/Dec/25 1:38 PM;sbehera-c;image-2025-12-14-16-08-26-283.png;https://jira.zatca.gov.sa/secure/attachment/506740/image-2025-12-14-16-08-26-283.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i225wf:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16/Dec/25 10:23 AM;anssharma-c;[~sbehera-c] [~shgandhi-c] - post functional clarification we got clarity that officer can add multiple alternative UOMs. And as per the product design if some form has to be repeated, the first one will be opened by default.
+
+Malay is in line with this and is updating the design. so, this will be working as designed now.
+
+ ;;;","21/Dec/25 9:01 AM;anssharma-c;RCA: Design;;;",,,,,,,
+GC code is not reflected as per the code id present in the classification form,BQ-284,457267,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,Medium,,ybaba-c,ybaba-c,ybaba-c,13/Dec/25 1:15 PM,21/Dec/25 10:21 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"*Description:* 
+Once the officer logs in and clicks on the create goods classification the GC code is not same throughout the form (as per code id)
+
+*Steps to reproduce* 
+1. Login to the BZMS officer (Backend portal) as a BZMS officer 
+2. Click on the create button in the home page and select Create goods classification
+3. Observe the code IDs on the page
+ 
+{*}Actual result{*}: GC code is not same on the webpage as the generated code
+*Expected result:* GC code should be the same everywhere as the generated code",,anssharma-c,ybaba-c,,,,,,,,,,,,,,,TDD-11161,,"13/Dec/25 1:16 PM;ybaba-c;GCCodeDefect.png;https://jira.zatca.gov.sa/secure/attachment/506402/GCCodeDefect.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i2251b:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"13/Dec/25 9:16 PM;anssharma-c;Hello [~ybaba-c] the one on the left banner is case ID which is like a ticket number generated by system to track the workflow you are working on, another one is the goods classification ID which we have configured to assign it to the particular goods classification you are creating. ;;;","14/Dec/25 8:10 PM;anssharma-c;If you have any doubts please connect [~shgandhi-c]  [~ybaba-c]  as mentioned this is not a BUG.;;;",,,,,,,
+In Goods classification type the officer is Unable to type  while creating new goods classification as BZ Registration officer,BQ-283,457266,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,Low,,ybaba-c,ybaba-c,ybaba-c,13/Dec/25 1:11 PM,21/Dec/25 10:26 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"*Description:*  
+The Registered BZ Registration Officer should be able to create a goods classification by entering the text in goods classification type 
+*Steps to reproduce:*  
+1. Login to the BZMS officer (Backend portal) as a BZMS officer  
+2. Click on the create button in the home page and select Create goods classification 
+3. Try to enter the goods classification type 
+  
+*Actual result:* Only dropdown is being displayed unable to enter text as shown in Figma  
+*Expected result:* Officer should be able to enter the goods classification type as shown in Figma screen",,anssharma-c,ybaba-c,,,,,,,,,,,,TDD-11161,TDD-11162,,,,"13/Dec/25 1:12 PM;ybaba-c;TypeDropdown.png;https://jira.zatca.gov.sa/secure/attachment/506400/TypeDropdown.png","14/Dec/25 3:51 PM;ybaba-c;TypeDropdown-1.png;https://jira.zatca.gov.sa/secure/attachment/506927/TypeDropdown-1.png","13/Dec/25 1:12 PM;ybaba-c;TypeFigmaScreen.png;https://jira.zatca.gov.sa/secure/attachment/506401/TypeFigmaScreen.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22513:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14/Dec/25 8:07 PM;anssharma-c;[~taeltayyeb-c] The Goods classification type has proposed values in DD, should it be the dropdown as developed or free text?;;;","15/Dec/25 10:48 AM;anssharma-c;| |x|Gods Clasification Type |the type of the Goods Clsaification |*DDL*|30|User selection | | |one| |from registeration| | | |1. Raw Material.
+2. Finished Goods.
+3. Semi Finished Goods.
+4. Packaging Material
+5. Spare Parts
+6. Waste
+7. Scrab
+8. Machinery & Assets|;;;","21/Dec/25 10:26 AM;anssharma-c;RCA: NOt a bug;;;",,,,,,
+As a Registered BZ Registration Officer Create new goods classification -time is not being displayed accurately,BQ-282,457265,Defect,in testing,BQ,BZMS QA ,business,sysadmin,,,Low,,ybaba-c,ybaba-c,ybaba-c,13/Dec/25 1:06 PM,21/Dec/25 2:36 PM,22/Dec/25 7:48 PM,,,BZMS_BE,,"*Description:* 
+The Registered BZ Registration Officer should be able to create a goods classification through backend Officers portal, but the goods created time is displayed wrong
+
+*Steps to reproduce* 
+1. Login to the BZMS officer (Backend portal) as a BZMS officer 
+2. Click on the create button in the home page and select Create goods classification
+3. Observe the time
+ 
+{*}Actual result{*}: Time is displayed wrong 
+*Expected result:* Goods creation time should be as same as the current time",,anssharma-c,ybaba-c,,,,,,,,,,,,,,,TDD-11161,,"13/Dec/25 1:08 PM;ybaba-c;Timing Defect.png;https://jira.zatca.gov.sa/secure/attachment/506299/Timing+Defect.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Configuration Issue,,"0|i2250v:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14/Dec/25 12:44 PM;anssharma-c;This is ready to retest.;;;",,,,,,,,
+"[BZMS] As an Operator/Trader/Foreign Trader, I need to amend component operator authorization within my profile in BZMS, in order to amend the component operator authorization provided on their behalf. ",BQ-281,457442,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Blocker,,shgandhi-c,shgandhi-c,shgandhi-c,12/Dec/25 5:35 PM,22/Dec/25 9:33 AM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,BZMS_FE,,"Steps to Reproduce: 
+1.    Login to BZMS Portal as O/T/FT. 
+2.    Navigate: Account Management → Component Operator Access Account. 
+3.    Select any component operator. 
+4.    Attempt to amend authorization or freeze/unfreeze the account. 
+Expected Result: Amend, Freeze, and Remove should be visible and functional. 
+Actual Result: No such functionality is visible.",,dhariani-c,shgandhi-c,,,,,,,,,,,,,,,,,"16/Dec/25 5:11 PM;dhariani-c;amendfreeze_blocked.png;https://jira.zatca.gov.sa/secure/attachment/508484/amendfreeze_blocked.png","12/Dec/25 5:43 PM;shgandhi-c;BQ281 - Actual.jpg;https://jira.zatca.gov.sa/secure/attachment/506359/BQ281+-+Actual.jpg","12/Dec/25 5:43 PM;shgandhi-c;BQ281 - Expected_1.png;https://jira.zatca.gov.sa/secure/attachment/506358/BQ281+-+Expected_1.png","12/Dec/25 5:43 PM;shgandhi-c;BQ281 - Expected_2.jpg;https://jira.zatca.gov.sa/secure/attachment/506357/BQ281+-+Expected_2.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i2250n:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16/Dec/25 5:12 PM;dhariani-c;As per latest figma design, we still cannot amend/freeze Component Operator;;;",,,,,,,,
+Notification not triggered after Operator account request is approved by Bonded Zone officer.,BQ-280,457441,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,High,,sbehera-c,sbehera-c,sbehera-c,11/Dec/25 8:22 PM,19/Dec/25 3:15 PM,22/Dec/25 7:44 PM,,22/Dec/25 12:00 AM,BZMS_BE,,"*Notification not triggered for both LocalTrader and ForeignTrader.*
+
+*Expected Behavior:*
+ * When an Operator account request is approved by the Bonded Zone officer (via backend), the system should trigger a notification to the Operator confirming approval.
+
+*Actual Behavior:*
+ * Operator account is created successfully through the front end and approved by the Bonded Zone officer from the backend, but *no notification is triggered* to the Operator.
+
+h3. *Steps to Reproduce:*
+ # Log in to BZMS portal and create an Operator account request from the front end.
+ # Submit the request successfully.
+ # Approve the request from the backend as Bonded Zone officer.
+ # Check for notification (email/SMS/in-app).
+ # Observe that no notification is triggered. ",,anssharma-c,sbehera-c,,,,,,,,,,,,,,,TDD-11407,TDD-11406,"11/Dec/25 8:27 PM;sbehera-c;image-2025-12-11-22-57-02-632.png;https://jira.zatca.gov.sa/secure/attachment/506355/image-2025-12-11-22-57-02-632.png","11/Dec/25 9:29 PM;sbehera-c;image-2025-12-11-23-59-16-823.png;https://jira.zatca.gov.sa/secure/attachment/506356/image-2025-12-11-23-59-16-823.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i2250f:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18/Dec/25 5:52 PM;anssharma-c;Fixed and Deployed.;;;",,,,,,,,
+More Information Required Action for Authorization request of Local Trader/Foreign Trader is not working as expected ,BQ-277,457262,Defect,Re-opened,BQ,BZMS QA ,business,sysadmin,,,High,,anssharma-c,ybaba-c,ybaba-c,11/Dec/25 7:00 PM,22/Dec/25 4:02 PM,22/Dec/25 7:48 PM,,23/Dec/25 12:00 AM,BZMS_FE,,"*Description:*
+Once the Operator Requests for more Information, Foreign Trader/local trader is not able to add information needed as edit option is not working but Operator can see Information Received.
+
+
+
+
+*Steps to reproduce*
+ # Login to the BZMS as an Foreign trader/Local trader
+ # Click on Zone Profile Management -> Add Zone Profile
+ # Under bonded zone details relevant Select Zone profile and components and enter authorization start and end date
+ # Click on next and in the summary, page click on submit
+ # Login as Operator
+ # Click on Incoming Request
+ # Search for the created Application -> view details -> Take action -> More Info
+ # Enter More Information needed in the text box and submit
+ # Observe the Status as “Information Received”
+ # Login as FT
+ # View details of the current request
+ # Observe the edit option.
+
+ 
+
+*Actual result:* Edit Option not working for FT to enter the information required but operator can see Information Received.
+
+*Expected result:* FT must be able to click on edit -> enter information required that is requested by the Operator and resubmit the request.
+
+ 
+
+*Note:* Issue Common for both Local and Foreign trader login",,ybaba-c,,,,,,,,,,,,,TDD-11025,TDD-11023,TDD-11026,,,"11/Dec/25 7:03 PM;ybaba-c;MoreInfo1.png;https://jira.zatca.gov.sa/secure/attachment/506259/MoreInfo1.png","11/Dec/25 7:03 PM;ybaba-c;MoreInfo2.png;https://jira.zatca.gov.sa/secure/attachment/506260/MoreInfo2.png","11/Dec/25 7:03 PM;ybaba-c;MoreInfo3.png;https://jira.zatca.gov.sa/secure/attachment/506261/MoreInfo3.png","21/Dec/25 7:48 AM;ybaba-c;MoreInfoReq_NotFixed.png;https://jira.zatca.gov.sa/secure/attachment/509715/MoreInfoReq_NotFixed.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,smishra-c,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i224kv:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15/Dec/25 9:59 AM;ybaba-c;Retested the flow, but the below 2 functionalities not working as expected:
+
+1.Operator can see info received before foreign trader adds info required.
+2. Foreign Trader cannot add info requested since the edit option is not working.;;;","21/Dec/25 7:49 AM;ybaba-c;Retested the flow - Issue is still the same. when Operator clicks on More Info Required, without Foreign trader/local trader edits, status is showing as Information received
+!MoreInfoReq_NotFixed.png|width=1019,height=339!;;;",,,,,,,
+Rejection flow of Authorization request of Local trader / Foreign trader not working as expected. No text box to enter rejection reason,BQ-275,457261,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Medium,,smishra-c,ybaba-c,ybaba-c,11/Dec/25 6:56 PM,22/Dec/25 7:11 AM,22/Dec/25 7:48 PM,,21/Dec/25 12:00 AM,BZMS_FE,,"+*Description:*+ 
+Text box for rejection reason is not being displayed. Directly the request is being rejected. And Rejection status is marked in green, no tab for rejection reason displayed. 
+
++*Steps to reproduce*+ 
+1. Login to the BZMS as an Foreign trader/local trader 
+2. Click on Zone Profile Management -> Add Zone Profile 
+3. Under bonded zone details relevant Select Zone profile and components and enter authorization start and end date  
+4. Click on next and in the summary, page click on submit  
+5. Login as Operator 
+6. Click on Incoming Request 
+7. Search for the created Application -> view details -> Take action -> Reject Request  
+8. Observe the action being performed -> directly being rejected  
+  
+
+*Actual result:* Request being rejected without asking for reason. Rejected status marked as green 
+
+
++*Expected result:*+ A message box should be displayed to enter the rejection reason and foreign trader must be able to see the rejection reason in view details. Rejection reason must be displayed instead of Request details  
+
+*Note:* Issue common for both Foreign trader and local trader ",,ybaba-c,,,,,,,,,,,,,,,,TDD-11025,TDD-11023,"11/Dec/25 6:56 PM;ybaba-c;Rejection.png;https://jira.zatca.gov.sa/secure/attachment/506258/Rejection.png","21/Dec/25 8:36 AM;ybaba-c;RejectionMessageBox_Fixed.png;https://jira.zatca.gov.sa/secure/attachment/509718/RejectionMessageBox_Fixed.png","21/Dec/25 8:37 AM;ybaba-c;RejectionStatusMarkedGreen_TobeFixed.png;https://jira.zatca.gov.sa/secure/attachment/509719/RejectionStatusMarkedGreen_TobeFixed.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i224kf:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21/Dec/25 8:37 AM;ybaba-c;Retested the Issue - A message box is displayed to enter rejection reason. This issue is fixed for both Local Trader and Foreign Trader  !RejectionMessageBox_Fixed.png|width=608,height=226!;;;","21/Dec/25 8:37 AM;ybaba-c;Reopening the issue because the Rejected status is marked as green 
+!RejectionStatusMarkedGreen_TobeFixed.png|width=1313,height=452!;;;",,,,,,,
+Authorization Request submitted by Local trader/Foreign tarder after approval by Operator is not displayed in Officer’s Dashboard  ,BQ-273,457260,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,High,,ybaba-c,ybaba-c,ybaba-c,11/Dec/25 6:46 PM,21/Dec/25 9:05 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"*Description:*
+After the Authorization Request is being approved by BZ Operator, it is not being displayed in the BZ Registration Officer’s Dashboard for the Final Approval 
+
+*Steps to reproduce*
+1. Login to the BZMS as an Foreign trader/Local trader
+2. Click on Zone Profile Management -> Add Zone Profile
+3. Under bonded zone details relevant Select Zone profile and components and enter authorization start and end date
+ # Click on next and in the summary, page click on submit
+ # Login as Operator
+ # Click on Incoming Request
+ # Search for the created Application -> view details -> Take action -> Approve Request
+ # Login to Officer Backend Portal
+ # Observe the Dashboard
+
+
+*Actual result:* Request not displayed in the dashboard 
+*Expected result:* Authorization Request Approved by Operator should be routed and displayed in the dashboard of Officer 
+
+ 
+
+*Note:* Defect common for both Foreign Trader and Local trader user’s",,anssharma-c,ybaba-c,,,,,,,,,,,,,,,TDD-11025,TDD-11023,"11/Dec/25 6:47 PM;ybaba-c;Approval1.png;https://jira.zatca.gov.sa/secure/attachment/506256/Approval1.png","11/Dec/25 6:47 PM;ybaba-c;Approval2.png;https://jira.zatca.gov.sa/secure/attachment/506257/Approval2.png","18/Dec/25 3:01 PM;ybaba-c;Dashboard_NotFixed.png;https://jira.zatca.gov.sa/secure/attachment/509490/Dashboard_NotFixed.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22453:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"13/Dec/25 9:38 PM;anssharma-c;Can you please retest this, as Dashboard now is configured for use.;;;","18/Dec/25 3:02 PM;ybaba-c;Retested the Flow - But the approved request by the Operator is not displayed in the Officer Login Dashboard instead we need to search for the request manually or in the Work queue section in the Home page. Officer Dashboard issue still not fixed.
+!Dashboard_NotFixed.png|width=1212,height=464!;;;","21/Dec/25 8:19 AM;anssharma-c;[~ybaba-c] the dashboard is configured on the home page itself, if you are able to see the cases in the workqueue it is working fine. Dashboard specifically is for metrics where we have no requirement to display any metric. Will be rejecting as this is not a bug. My work and Home (work queue) will display the list of cases.;;;","21/Dec/25 8:20 AM;anssharma-c;RCA: Not a bug;;;",,,,,
+"Error message “Zone Code cannot be empty” displayed when Local Trader creates a new Zone Profile, even though Zone Profile is already mapped.",BQ-271,457303,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,High,,smishra-c,sbehera-c,sbehera-c,11/Dec/25 6:08 PM,21/Dec/25 8:05 AM,22/Dec/25 7:48 PM,,19/Dec/25 12:00 AM,BZMS_FE,,"*Expected Behavior:*
+ * Local Trader should be able to create a new Zone Profile successfully when Zone Profile is already mapped, without triggering validation errors.
+
+*Actual Behavior:*
+ * While creating a new Zone Profile, system displays error:
+_“Zone Code cannot be empty”_
+ * This occurs even though the Zone Profile is already mapped.
+
+h3. *Steps to Reproduce:*
+ # Log in to BZMS portal.
+ # Navigate to *Account Management* section.
+ # Locate the service option for {*}Request to be Operator{*}.
+ # Enter all required details and ensure Zone Profile is mapped.
+ # Submit the request.
+ # Observe error message: “Zone Code cannot be empty”.",,sbehera-c,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i2244f:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Incorrect label for service option: “Request to be Operator” appears as “Register as Local Trader” in UI instead of “Account Management Register as Local Trader”.,BQ-270,457302,Defect,in Processing,BQ,BZMS QA ,business,sysadmin,,,Low,,smishra-c,sbehera-c,sbehera-c,11/Dec/25 5:31 PM,22/Dec/25 9:43 AM,22/Dec/25 7:48 PM,,21/Dec/25 12:00 AM,BZMS_FE,,"Expected Behavior:
+ * The UI should display the correct service option label: *“Register as Local Operator”* for the functionality “Request to be Operator”.
+
+Actual Behavior:
+ * In the UI, the label is incorrectly shown as {*}“Account Management Register as Local Trader”{*}, which is misleading for users requesting Operator access.
+
+h3. *Steps to Reproduce:*
+ # Log in to BZMS portal.
+ # Navigate to *Account Management* section.
+ # Locate the service option for {*}Request to be Operator{*}.
+ # Observe the displayed label in the UI.
+
+ ",,sbehera-c,smishra-c,,,,,,,,,,,,,,,TDD-11406,,"21/Dec/25 2:09 PM;sbehera-c;BQ-270-01.png;https://jira.zatca.gov.sa/secure/attachment/509962/BQ-270-01.png","11/Dec/25 5:34 PM;sbehera-c;image-2025-12-11-20-04-59-335.png;https://jira.zatca.gov.sa/secure/attachment/506348/image-2025-12-11-20-04-59-335.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i22447:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"19/Dec/25 11:29 AM;smishra-c;In Account-management, inside the Quick Action it is for US-11406 and 11407 where local and foreign trader wants to be an operator so the name will be same only ""Register as Operator"".;;;","21/Dec/25 2:08 PM;sbehera-c;Retested this bug ,still the name is displaying wrong. It should be ""Register as Operator"" instead of ""Register as Foreign Treader"". ;;;",,,,,,,
+Licensing authority displayed incorrectly for Foreign Trader.,BQ-269,457301,Defect,Re-opened,BQ,BZMS QA ,business,sysadmin,,,Medium,,smishra-c,sbehera-c,sbehera-c,11/Dec/25 5:12 PM,22/Dec/25 2:26 PM,22/Dec/25 7:48 PM,,17/Dec/25 12:00 AM,BZMS_FE,,"Expected Behavior:
+
+When a Local Trader requests to create an Operator account, the system should display the correct licensing authority based on the trader type and associated business rules.
+
+Actual Behavior:
+
+Licensing authority is displayed incorrectly for Foreign Trader during the Local Trader’s Operator account request process.
+h3. *Steps to Reproduce:*
+ # Log in as Local Trader in BZMS portal.
+ # Initiate request for Operator account.
+ # Navigate to Account Management > Resister as Operator.
+ # Observe the displayed licensing authority for Foreign Trader.
+
+ ",,anssharma-c,sbehera-c,smishra-c,,,,,,,,,,,,,,TDD-11407,,"11/Dec/25 5:17 PM;sbehera-c;image-2025-12-11-19-47-32-263.png;https://jira.zatca.gov.sa/secure/attachment/506344/image-2025-12-11-19-47-32-263.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i2243z:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16/Dec/25 2:02 PM;smishra-c;It is the data issue assigning to PEGA;;;","17/Dec/25 1:17 PM;anssharma-c;Hello [~smishra-c] [~ybaba-c]  Please explain what is the expected behavior.;;;","17/Dec/25 1:23 PM;anssharma-c;This national number when registered through customer portal had Ministry of Commerce as licensing authority entered, we are not manipulating the data on our end just saving what we are receiving from Customer portal;;;","22/Dec/25 2:26 PM;sbehera-c;Retested, But no data available to Register as operator/foreign trader.
+
+Tested by pavan kumar;;;",,,,,
+Amend Zone Type : Services and Sub Services should follow a proper hierarchy,BQ-264,456414,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,Medium,,ybaba-c,ybaba-c,ybaba-c,10/Dec/25 7:34 PM,17/Dec/25 11:16 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"|+*Steps to reproduce -*+ 
+ 
+ #  Login to PEGA supervisor
+ #  Go to Amend Zone Type 
+ #  Select any Zone type and Submit it. 
+ #  Check field of Link Services/Sub-services 
+
+
++*Expected Result -*+ Services and Sub Services should follow a proper hierarchy
+ 
++*Actual Result -*+ They are in the same section |",,anssharma-c,ybaba-c,,,,,,,,,,,,,,,,,"10/Dec/25 7:34 PM;ybaba-c;screenshot-1765384357719.png;https://jira.zatca.gov.sa/secure/attachment/505792/screenshot-1765384357719.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21yof:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"11/Dec/25 11:34 AM;anssharma-c;Hello [~ybaba-c]  [~shgandhi-c] this defect is ready to be retested. Assigning back to you.;;;","11/Dec/25 11:34 AM;anssharma-c;IGNORE above comment.;;;","16/Dec/25 10:09 AM;anssharma-c;[~shgandhi-c] [~ybaba-c]  [~taeltayyeb-c]  - need to connect with you on this defect.;;;","17/Dec/25 11:15 AM;anssharma-c;# While we were developing the story the there was a discussion with multiple stakeholders and it was decided that sub services will be linked automatically once a service is selected. PFB comment
+ # The story has no specific requirement mentioning Service and Sub-service should be separate.
+
+We have developed as per the design and the discussion, if you are requesting a change in the implementation and asking us to separate these dropdowns it will be a design change and an enhancement.;;;",,,,,
+Register Now button still appears for the same Operator/Foreign Trader.,BQ-256,456169,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,High,,smishra-c,sbehera-c,sbehera-c,10/Dec/25 3:24 PM,19/Dec/25 11:58 AM,22/Dec/25 7:48 PM,,19/Dec/25 12:00 AM,BZMS_FE,,"Description: 
+Expected: After successful registration, the Register Now button should not be displayed for the registered Operator/Foreign Trader. 
+Actual: After registration, the Register Now button is still visible for the same Operator/Foreign Trader. 
+Steps to Reproduce: 
+1.    Log in as Operator/Foreign Trader. 
+2.    Complete registration with valid details. 
+3.    Observe if Register Now button is still displayed after registration.",,sbehera-c,smishra-c,,,,,,,,,,,,,,,TDD-10985,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21xqn:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"19/Dec/25 11:58 AM;smishra-c;When there is already register case that time you wont be able to see the ""Register Now"" Button on Dashboard.;;;",,,,,,,,
+BZME_BE - Broker list displays only two demo entries instead of full list from Nebras ,BQ-250,456246,Defect,in Processing,BQ,BZMS QA ,business,sysadmin,,,High,,anssharma-c,ybaba-c,ybaba-c,10/Dec/25 2:12 PM,22/Dec/25 4:05 PM,22/Dec/25 7:48 PM,,23/Dec/25 12:00 AM,BZMS_BE,,"h2. Description: 
+
+While authorizing a broker, the system shows only two demo brokers (Jane and David) instead of fetching the complete list from Nibras. 
+h2. Steps to Reproduce: 
+ # Login as Operator/Trader/Foreign Trader in BZMS portal 
+ # Navigate to Account Management → Broker Services 
+ # Attempt to search/select broker from list 
+
+h2. Expected Result: 
+
+System should display all registered brokers from Nibras 
+h2. Actual Result: 
+
+Only two demo brokers (Jane and David) are displayed",,anssharma-c,smishra-c,ybaba-c,,,,,,,,,,,,,,TDD-10988,TDD-10987,"10/Dec/25 2:14 PM;ybaba-c;image (4).png;https://jira.zatca.gov.sa/secure/attachment/505603/image+%284%29.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21xdr:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10/Dec/25 2:40 PM;ybaba-c;Logged by [~shgandhi-c] ;;;","10/Dec/25 9:14 PM;anssharma-c;Revised solution is to get broker list is through NEBRAS API integration. Which is work in progress.;;;","11/Dec/25 9:58 AM;anssharma-c;assigning it to [~smishra-c]  as the API details are pending on Shivam and team.;;;","21/Dec/25 7:59 AM;smishra-c;Broker Nebras Api has been shared with Anshum and PEGA Team on 18th Dec 2025;;;",,,,,
+"PEGA UI partially loads after login, API calls fail (500/401) ",BQ-248,456211,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,High,,ybaba-c,ybaba-c,ybaba-c,10/Dec/25 11:41 AM,22/Dec/25 4:33 PM,22/Dec/25 7:48 PM,,,BZMS_BE,,"After logging into the BZMS Pega application (Constellation UI), the front-end renders static elements (navigation, announcements, work queue) but fails to load dynamic content or allow actions. Multiple API calls to {{/prweb/app/bzms/api/*}} return {*}500 Internal Server Error{*}, and at least one GET call returns {*}401 Unauthorized{*}. This occurs for *all roles* (Operator, Supervisor, Officer).
+ 
+ * Navigate to the BZMS login page.
+ * Log in with any valid credentials (Operator / Supervisor / Officer).
+ * Observe:
+ ** Left navigation loads (Home, Bonded Zone Services, Dashboard).
+ ** Announcements widget and Pulse section visible.
+ ** Work Queue shows tasks with *Submitted* status.
+ * Open {*}DevTools → Console{*}:
+ ** Multiple {{POST}} requests fail with {*}500 Internal Server Error{*}.
+ ** One {{GET}} request fails with {*}401 Unauthorized{*}.
+ ** Errors logged in {{xhr.js:195}} and {{StateResolver.js:257}} as {{{}ERR_BAD_RESPONSE{}}}.
+ * Refresh or log in with another role → same issue persists.",,anssharma-c,hajaved-c,shgandhi-c,taeltayyeb-c,ybaba-c,,,,,,,,,,,,,,"15/Dec/25 7:36 AM;shgandhi-c;Screenshot 2025-12-15 100300.png;https://jira.zatca.gov.sa/secure/attachment/507200/Screenshot+2025-12-15+100300.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,anssharma-c,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21x2n:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10/Dec/25 9:22 PM;anssharma-c;Hello [~ybaba-c]  can you share the screenshot of what is partially loading, these API failures should not hamper the landing UI. we will check on these failures.;;;","11/Dec/25 10:06 AM;anssharma-c;Hello [~ybaba-c] Please close this defect as this is not applicable.
+
+o    Pega has several internal calls which are not related to our development but are configured in the constellation framework. 
+o    Testing shouldn’t be done using console for Backend officer portal as it has no relevance on the development done within Backend portal.
+o    As for this defect, PEGA’s performance and functionality is not impacted. ;;;","12/Dec/25 10:00 AM;taeltayyeb-c;Kindly note that this was not fixed yet;;;","14/Dec/25 8:26 PM;anssharma-c;These are all OOB API calls. Please provide screenshot of how pega UI is partially loading and what is missing. [~taeltayyeb-c] ;;;","15/Dec/25 7:38 AM;shgandhi-c;[~anssharma-c] - Uploaded the attachment, will close this issue with valid justification or documentation. ;;;","17/Dec/25 11:16 AM;hajaved-c;[~anssharma-c]  please share this detail to close this ticket;;;","18/Dec/25 11:10 AM;anssharma-c;_SR raised - INC-C58939 to get confirmation from Pegasystems that API failures are not relevant_;;;","21/Dec/25 10:44 AM;shgandhi-c;Based on the comment from Anshum, Deferred. ;;;","22/Dec/25 4:33 PM;anssharma-c;we checked with Pegasystem on this but unable to replicate this defect. so rejecting the bug;;;"
+Sorting functionality is not working in the Employee Dashboard.,BQ-246,456102,Defect,in Processing,BQ,BZMS QA ,business,sysadmin,,,Medium,,laharoon-c,ybaba-c,ybaba-c,10/Dec/25 10:40 AM,19/Dec/25 11:20 AM,22/Dec/25 7:48 PM,,,BZMS_BE,,"*Expected Result:* 
+Data should be sorted after clicking on sort
+*Actual Result:* 
+No change in order.
+
+*Steps to Reproduce:*
+ # Login as Operator.
+ # Navigate to Access Management → Employee Account.
+ # Click on sort.
+ # Observe results.
+
+ *Screenshot attached:*
+*!image-2025-12-10-13-15-45-577.png|width=448,height=288!*",,ybaba-c,,,,,,,,,,,,,,,,,,"10/Dec/25 10:45 AM;ybaba-c;image-2025-12-10-13-15-45-577.png;https://jira.zatca.gov.sa/secure/attachment/505334/image-2025-12-10-13-15-45-577.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21wyn:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Applying filter in Employee dashboard does not update the grid.,BQ-245,456100,Defect,in Processing,BQ,BZMS QA ,business,sysadmin,,,High,,laharoon-c,ybaba-c,ybaba-c,10/Dec/25 10:06 AM,19/Dec/25 11:20 AM,22/Dec/25 7:48 PM,,,BZMS_FE,,"*Expected Result:* 
+Grid updates with filtered rows.
+*Actual Result:* 
+No change in grid.
+
+*Steps to Reproduce:* 
+1.Login as Operator 
+2.Navigate to Access Management → Employee Access Management 
+3.Apply filter 
+4.Observe results.
+
+*Screenshot:* Attached.
+!image-2025-12-10-12-39-49-620.png!",,ybaba-c,,,,,,,,,,,,,,,,TDD-10989,TDD-10990,"10/Dec/25 10:09 AM;ybaba-c;image-2025-12-10-12-39-49-620.png;https://jira.zatca.gov.sa/secure/attachment/505326/image-2025-12-10-12-39-49-620.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21wy7:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Notification not triggered after request rejection by BZ Registration Officer.,BQ-189,455895,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,High,,sbehera-c,sbehera-c,sbehera-c,10/Dec/25 9:09 AM,22/Dec/25 4:31 PM,22/Dec/25 7:48 PM,,21/Dec/25 12:00 AM,,,"Expected: Notification should be triggered immediately after a pending request is rejected by the officer.
+Actual: Request is rejected successfully, but no notification is triggered.
+
+*Steps to Reproduce:*
+ # Log in as BZ Registration Officer.
+ # Reject a pending request.
+ # Observe if notification is triggered.
+
+ 
+
+ ",,anssharma-c,sbehera-c,,,,,,,,,,,,,,,TDD-11012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21whz:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18/Dec/25 11:57 AM;anssharma-c;No requirement mentioned in the story for this notification;;;","21/Dec/25 10:04 AM;anssharma-c;RCA: Not a bug;;;",,,,,,,
+Notification not triggered after freezing KPI by BZ Registration Officer.,BQ-187,455893,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,High,,sbehera-c,sbehera-c,sbehera-c,10/Dec/25 8:53 AM,21/Dec/25 8:03 AM,22/Dec/25 7:48 PM,,19/Dec/25 12:00 AM,BZMS_BE,,"Expected: Notification should be triggered immediately after KPI is successfully frozen. 
+Actual: No notification is triggered upon freezing KPI. 
+Steps to Reproduce: 
+1.    Log in as BZ Registration Officer. 
+2.    Select a KPI and freeze it. 
+3.    Observe if notification is triggered.",,anssharma-c,sbehera-c,,,,,,,,,,,,,,,TDD-11012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21whj:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"11/Dec/25 10:20 AM;anssharma-c;Requesting you to deprioritize notification related defects as you all know Notifications are Work-in-progress and we are targeting to complete them as soon as possible. [~sbehera-c] ;;;","18/Dec/25 11:56 AM;anssharma-c;|No requirement to trigger notification post freezing in the story. - needs to be rejected.|;;;","21/Dec/25 8:03 AM;anssharma-c;RCA: Not A bug;;;",,,,,,
+In-app notification not triggered when a new Authorization Amendment request is created.,BQ-185,455890,Defect,Rejected,BQ,BZMS QA ,business,sysadmin,,,High,,sbehera-c,sbehera-c,sbehera-c,10/Dec/25 8:33 AM,22/Dec/25 4:31 PM,22/Dec/25 7:48 PM,,21/Dec/25 12:00 AM,BZMS_BE,,"Expected: In-app notification should be triggered immediately after creating a new Authorization Amendment request.
+Actual: No in-app notification is generated.
+
+*Steps to Reproduce:*
+ # Log in as BZ Registration Officer.
+ # Create a new Authorization Amendment request.
+ # Observe if in-app notification is generated.",,anssharma-c,sbehera-c,ybaba-c,,,,,,,,,,,,,,TDD-11012,,"16/Dec/25 10:44 AM;sbehera-c;BQ-185-01.png;https://jira.zatca.gov.sa/secure/attachment/507916/BQ-185-01.png","16/Dec/25 10:44 AM;sbehera-c;BQ-185-02.png;https://jira.zatca.gov.sa/secure/attachment/507917/BQ-185-02.png","16/Dec/25 10:44 AM;sbehera-c;BQ-185-03.png;https://jira.zatca.gov.sa/secure/attachment/507918/BQ-185-03.png","16/Dec/25 10:44 AM;sbehera-c;BQ-185-04.png;https://jira.zatca.gov.sa/secure/attachment/507919/BQ-185-04.png","16/Dec/25 10:44 AM;sbehera-c;BQ-185-05.png;https://jira.zatca.gov.sa/secure/attachment/507920/BQ-185-05.png","16/Dec/25 10:44 AM;sbehera-c;BQ-185-06.png;https://jira.zatca.gov.sa/secure/attachment/507921/BQ-185-06.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21wgf:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"10/Dec/25 10:54 AM;anssharma-c;This is customer portal bug, please update. Auth Amendment is not handled in Officer portal, ;;;","11/Dec/25 10:22 AM;anssharma-c;Re-routing again to Customer Portal as this is FE portal issue on in-app notification. not backend portal issue.;;;","11/Dec/25 10:23 AM;anssharma-c;Also please provide screenshot;;;","11/Dec/25 1:05 PM;anssharma-c;Need more clarity, please provide screenshots.;;;","16/Dec/25 10:45 AM;sbehera-c;No notification triggered after Authorize a Amend request.  ;;;","18/Dec/25 11:54 AM;anssharma-c;|No bell notification is in-scope. |;;;","18/Dec/25 6:31 PM;ybaba-c;Agreed, closing the same. ;;;","21/Dec/25 8:01 AM;anssharma-c;RCA: Not a Bug;;;",
+"System fails to freeze tenant ,no status update and notification triggered.",BQ-184,455889,Defect,Re-opened,BQ,BZMS QA ,business,sysadmin,,,Highest,,smishra-c,sbehera-c,sbehera-c,10/Dec/25 8:21 AM,21/Dec/25 4:30 PM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,BZMS_FE,,"Expected: Tenant should be frozen successfully with status updated and a confirmation notification triggered.
+Actual: No success message displayed, tenant status remains unchanged, and no notification is triggered.
+
+*Steps to Reproduce:*
+ # Log in as Operator.
+ # Navigate to account management dashboard.
+ # Select tenant and freeze it.
+ # Observe status and notification behavior.",,sbehera-c,ybaba-c,,,,,,,,,,,,,,,TDD-10992,,"16/Dec/25 10:25 AM;sbehera-c;BQ-184-01.png;https://jira.zatca.gov.sa/secure/attachment/507905/BQ-184-01.png","16/Dec/25 10:25 AM;sbehera-c;BQ-184-02.png;https://jira.zatca.gov.sa/secure/attachment/507906/BQ-184-02.png","21/Dec/25 12:33 PM;ybaba-c;image-2025-12-21-15-03-26-858.png;https://jira.zatca.gov.sa/secure/attachment/509795/image-2025-12-21-15-03-26-858.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21wg7:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16/Dec/25 10:28 AM;sbehera-c;After clicked on Submit button for Freezing , an error message displayed as Submission Failed . (without any justification why its failed.);;;","21/Dec/25 12:34 PM;ybaba-c;Re tested the issue, freeze action is still not being submitted
+!image-2025-12-21-15-03-26-858.png|width=508,height=193!;;;",,,,,,,
+Notification does not trigger after tenant information update.,BQ-182,455887,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,High,,smishra-c,sbehera-c,sbehera-c,10/Dec/25 8:12 AM,21/Dec/25 8:00 AM,22/Dec/25 7:48 PM,,22/Dec/25 12:00 AM,BZMS_FE,,"Expected: Notification should be triggered after tenant information is successfully updated.
+Actual: No notification is triggered upon updating tenant details.
+
+*Steps to Reproduce:*
+ # Log in as Operator.
+ # Navigate to account management dashboard.
+ # Select a tenant and update information.
+ # Observe if notification is triggered.",,sbehera-c,,,,,,,,,,,,,,,,TDD-10992,,"16/Dec/25 12:18 PM;sbehera-c;BQ-182.png;https://jira.zatca.gov.sa/secure/attachment/507953/BQ-182.png",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21wfj:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16/Dec/25 12:17 PM;sbehera-c;Reopening this defect as notification not triggering.;;;",,,,,,,,
+Bonded Zone Tenant created successfully but Notification not triggered. ,BQ-119,455876,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,High,,smishra-c,sbehera-c,sbehera-c,09/Dec/25 9:08 PM,19/Dec/25 11:16 AM,22/Dec/25 7:48 PM,,19/Dec/25 12:00 AM,BZMS_FE,,"Expected: Tenant should be added successfully with all details displayed and notification triggered.
+
+Actual: Bonded Zone Tenant created successfully but Notification not triggered. 
+
+Steps to Reproduce: 
+1.    Log in as Operator. 
+2.    Navigate to account management dashboard. 
+3.    Add a new tenant with all required details. 
+4.    Observe tenant list and notification behavior.",,sbehera-c,,,,,,,,,,,,,,,,TDD-10991,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21vzj:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+“Go To Dashboard” post registration redirects incorrectly / logs out after creating Zone Profile,BQ-111,455851,Defect,Ready to test,BQ,BZMS QA ,business,sysadmin,,,Medium,,smishra-c,ybaba-c,ybaba-c,09/Dec/25 4:25 PM,19/Dec/25 3:39 PM,22/Dec/25 7:48 PM,,19/Dec/25 12:00 AM,BZMS_FE,,"Description 
+•    Expected: After registration or successful login, clicking Go To Dashboard should route the operator to the Zone Profile Management dashboard with options to create/manage zone profiles. 
+•    Actual: Clicking Go To Dashboard results in wrong redirection (unexpected page) or forced logout. 
+
+Steps to reproduce 
+1.    Register as a new BZ Operator (or use newly created operator account). 
+2.    Create zone profile with all necessary details.
+
+3. On the confirmation page, click Go To Dashboard.
+
+4.    Observe navigation result: page not Zone Profile dashboard OR session ends/logs out.",,smishra-c,ybaba-c,,,,,,,,,,,,,,,TDD-11021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21vnz:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16/Dec/25 2:45 PM;smishra-c;Not able to reproduce on SIT, after creation of zoneProfile on popup there is an Dashboard which is navigation to ZoneProfile Listing Page;;;","19/Dec/25 10:58 AM;smishra-c;Not able to Reproduce and Not a bug.;;;",,,,,,,
+Components/Services cannot be added unless Zone Type = “Internal Zone Profile”,BQ-110,455849,Defect,in testing,BQ,BZMS QA ,business,sysadmin,,,High,,ybaba-c,ybaba-c,ybaba-c,09/Dec/25 4:17 PM,21/Dec/25 8:03 AM,22/Dec/25 7:48 PM,,18/Dec/25 12:00 AM,BZMS_BE,,"Description 
+•    Expected: After selecting any valid Zone Type from the predefined list (e.g., Industrial, Commercial), operator can add Components (Type, Name, Location) and map Services per component, restricted to the pre linked set for that Zone Type. 
+•    Actual: Components and services addition dropdown is empty unless the Zone Type is specifically “Internal Zone Profile”. Other valid Zone Types do not allow component/service mapping.
+
+Steps to reproduce 
+1.    Log in as BZ Operator to the front end portal. 
+2.    Click Create New Zone Profile from dashboard. 
+3.    In Basic Information, select a Zone Type other than “Internal Zone Profile” (e.g., Industrial). 
+4.    Proceed to Components section and attempt to add Component Type, Name, Location. 
+5.    Proceed to Services section and attempt to map services to the added component(s). 
+6.    Observe the behavior (buttons disabled, validation blocking, or errors).",,anssharma-c,ybaba-c,,,,,,,,,,,,,,,TDD-11021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,الأنظمة التقنية والرقمنة (ASSET-21),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT,,,,,,,,,,,,aalmawash,alfaqeeram,melwahsh-c,saaltheyab.c,sghunaim,srumaih,sysadmin,zalmujaybil,alfaqeeram,melwahsh-c,sghunaim,sysadmin,zalmujaybil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"0|i21vn3:",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SIT 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14/Dec/25 7:55 AM;anssharma-c;Ready to Retest;;;","21/Dec/25 8:03 AM;anssharma-c;RCA: Data Issue;;;",,,,,,,
