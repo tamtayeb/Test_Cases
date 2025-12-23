@@ -1,0 +1,66 @@
+Issue key,Issue id,Status,Created,Updated,Summary
+BQ-2235,461922,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:01 PM,TC-04-12911-Verify rejection due to insufficient broker funds
+BQ-2234,461921,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:00 PM,TC-03-12911-Verify calculation and deduction of seal fees.
+BQ-2233,461920,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:53 PM,TC-02-12911-Verify creation of Vehicle Transaction (KSA to BZ).
+BQ-2232,461919,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 7:56 PM,TC-01-12911-Verify creation of Vehicle Transaction (Outside to KSA)
+BQ-2231,461918,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:46 PM,TC-04-12905-Verify handling of Integration Failure
+BQ-2230,461917,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:43 PM,TC-03-12905-Verify Payment Status Sync between Nebras and BZMS
+BQ-2229,461916,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:43 PM,TC-02-12905-Verify generation with zero input for one ticket type
+BQ-2228,461915,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:42 PM,TC-01-12905-Verify BZMS data transmission and IVR number generation
+BQ-2227,461914,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:40 PM,TC-06-12908-Verify Nebras sends declaration status updates to BZMS (Exit Ticket)
+BQ-2226,461913,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:39 PM,"TC-05-12908-Verify handling for Mix Liquid goods, including BOM selection"
+BQ-2225,461912,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:38 PM,"TC-04-12908-Verify special handling for Liquid goods, including final quantity approval"
+BQ-2224,461911,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:37 PM,TC-03-12908-Verify the process when the Exit Ticket is Rejected by the BZ operator
+BQ-2223,461910,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:34 PM,TC-02-12908-Verify successful E2E process with Exit Ticket Approved after exit (Standard Goods)
+BQ-2222,461909,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:31 PM,TC-01-12908-Verify fields are disabled upon operator approval (Exit Ticket Context)
+BQ-2221,461908,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:29 PM,TC-05-12904-Verify fields are disabled upon operator approval (Declaration Entry Ticket)
+BQ-2220,461907,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:28 PM,TC-04-12904-Verify BZMS requests clearance from Nebras when goods try to enter the BZ
+BQ-2219,461906,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:27 PM,TC-03-12904-Verify Nebras sends declaration status updates to BZMS throughout the lifecycle
+BQ-2218,461905,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:26 PM,TC-02-12904-Verify the process when the Entry Ticket is Rejected by the BZ operator
+BQ-2217,461904,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 7:09 PM,TC-01-12904-Verify successful E2E process with Entry Ticket Approved by BZ operator
+BQ-2216,461903,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:54 PM,TC-07-12902-Verify handling of Integration Failure between systems
+BQ-2215,461902,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 7:05 PM,TC-06-12902-Verify field disabling upon operator approval
+BQ-2214,461901,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 7:02 PM,TC-05-12902-Verify BZMS requests clearance from Nebras for Outside Port BZ exit
+BQ-2213,461900,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:59 PM,TC-04-12902-Verify Nebras sends declaration status updates to BZMS
+BQ-2212,461899,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:54 PM,TC-03-12902-Verify BZMS returns correct entry ticket maintained items for Spare Parts
+BQ-2211,461898,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:45 PM,TC-02-12902-Verify the process when the Exit Ticket is Rejected by the BZ operator
+BQ-2210,461897,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:41 PM,TC-01-12902-Verify successful E2E process with Exit Ticket Approved by BZ operator
+BQ-2209,461896,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:48 PM,TC-06-12899-Verify Integration Failure handling
+BQ-2208,461895,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:36 PM,TC-05-12899-Verify block on result submission for unlinked AWB
+BQ-2207,461894,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:25 PM,TC-04-12899-Verify No Inspection trigger (Cleared + Cleared)
+BQ-2206,461893,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:19 PM,TC-03-12899-Verify Security Inspection based on Suspicious X-ray result
+BQ-2205,461892,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:15 PM,TC-02-12899-Verify Customs Inspection (Customs + Cleared)
+BQ-2204,461891,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:12 PM,TC-01-12899-Verify Security Inspection based on Risk Engine result
+BQ-2203,461890,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 6:03 PM,TC-04-12900-Verify handling of Integration Failure during result transmission
+BQ-2202,461889,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 12:54 PM,TC-03-12900-Verify the multi-step reporting for a successful Security Inspection resulting in a final Cleared status
+BQ-2201,461888,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 12:51 PM,TC-02-12900-Verify the end-to-end process for a successful Customs Inspection result reported to BZMS
+BQ-2200,461887,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 12:47 PM,TC_01-12900-Verify the system records and reports the K9 Inspector result when the final activity is No Inspection
+BQ-2199,461886,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 11:05 AM,TC-03-12898-Verify system behavior during an Integration Failure
+BQ-2198,461885,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 11:37 AM,TC-02-12898-Verify the multi-step reporting for a successful Security Inspection resulting in a final Cleared status land
+BQ-2197,461884,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 9:07 AM,TC-01-12898-Verify the end-to-end process for a successful Customs Inspection result reported to BZMS land
+BQ-2196,461883,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:52 AM,TC-06-12897-Verify Integration Failure handling
+BQ-2195,461882,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:48 AM,TC-05-12897-Verify No Inspection trigger
+BQ-2194,461881,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:41 AM,TC-04-12897-Verify Customs Inspection trigger
+BQ-2193,461880,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:37 AM,TC-03-12897-Verify Security Inspection trigger based on Suspicious X-ray Result
+BQ-2192,461879,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:30 AM,TC-02-12897-Verify Security Inspection trigger based on Vehicle Transaction Risk
+BQ-2191,461878,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 8:29 AM,TC-01-12897-Verify Security Inspection trigger based on Entry Ticket Risk
+BQ-2190,461877,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 12:34 AM,TC-03-12866-Verify handling of Integration Failure during data transmission to BZMS
+BQ-2189,461876,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 12:33 AM,TC-02-12866-Verify system behavior when the Appointment System returns an invalid/non-existent Entry Ticket ID
+BQ-2188,461875,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 12:26 AM,"TC-01-12866-Verify that Nebras successfully retrieves vehicle and entry ticket information, creates transaction, links it and reports the and report the results to BZMS"
+BQ-2187,461874,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 12:05 AM,TC-03-12783-Verify handling of Integration Failure during result transmission
+BQ-2186,461873,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 12:01 AM,TC-02-12783-Verify the multi-step reporting for a successful Security Inspection (K9 + Customs + Security)
+BQ-2185,461872,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 11:46 PM,TC-01-12783-Verify the end-to-end process for a successful Customs Inspection result reported to BZMS
+BQ-2184,461871,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 11:30 PM,TC-05-12781-Verify X-ray System blocks submission until container is linked to a valid Entry Ticket
+BQ-2183,461870,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 11:22 PM,TC-04-12781-Verify E2E process for a container requiring No Inspection (Cleared + Cleared)
+BQ-2182,461869,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 11:12 PM,TC-03-12781-Verify E2E process for Security Inspection based on Suspicious X-ray result
+BQ-2181,461868,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 11:05 PM,TC-02-12781-Verify E2E process for Customs Inspection (Customs + Cleared)
+BQ-2180,461867,QA Backlog,22/Dec/25 9:26 PM,23/Dec/25 2:54 PM,TC-01-12781-Verify the end-to-end process for a container requiring Security Inspection based on Risk Engine result.
+BQ-2179,461866,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 10:25 PM,TC-03-12780-Verify that an existing Entry Ticket ID with Rejected (Not Approved) status is handled
+BQ-2178,461865,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 10:23 PM,TC-02-12780-Verify that a non-existent Entry Ticket ID is rejected with the correct message
+BQ-2176,461863,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 10:18 PM,TC-01-12780-Verify valid and approved Entry Ticket ID is successfully saved in the Appointment System
+BQ-2175,461862,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 9:58 PM,TC-06-12799-Verify BZMS displays error when Faseh returns no AWB with the requested criteria
+BQ-2174,461861,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 9:54 PM,"TC-05-12799-Verify retrieval/selection, but no lock because the AWB is already in a declaration"
+BQ-2173,461860,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 9:49 PM,"TC-04-12799-Verify successful request, selection, and Nebras lock for an AWB not in a declaration"
+BQ-2172,461859,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 9:44 PM,TC-03-12799-Verify BZMS displays error when Faseh returns no BOL with the requested criteria
+BQ-2171,461858,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 9:45 PM,"TC-02-12799-Verify retrieval/selection, but no lock because the BOL is already in a declaration"
+BQ-2170,461857,QA Backlog,22/Dec/25 9:26 PM,22/Dec/25 9:36 PM,"TC-01-12799-Verify successful request, selection, and Nebras lock for a BOL not in a declaration"
